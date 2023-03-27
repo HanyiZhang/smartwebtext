@@ -1,0 +1,23 @@
+beautifulsoup4
+fasttext==0.9.2
+scipy
+numpy
+dill
+pandas
+sklearn
+spacy
+matplotlib
+fastDamerauLevenshtein
+nltk
+rake-nltk
+gensim
+pytorch_lightning
+transformers
+rich
+tqdm
+datasets
+GPUtil
+numba
+sentence-transformers
+tensorboard
+# How to use tensorboard: tensorboard --logdir=$EVENTS_FOLDER

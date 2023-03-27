@@ -1,0 +1,46 @@
+ssh-keygen -t  id_rsa
+
+GCP console -
+https://console.cloud.google.com/compute/instances?onCreate=true&authuser=1&project=shuangludai0
+GPU pricing -
+https://cloud.google.com/compute/gpus-pricing#gpus
+
+login to google cloud VM
+(https://kloudle.com/academy/5-ways-to-connect-to-your-gcp-vm-instances-using-ssh):
+ssh shuangludai@34.168.43.23
+gcloud compute ssh --zone "us-west1-b" "shakespear-1"  --project "shuangludai0"
+
+google cloud install GPU drivers for nvidia K80
+(https://cloud.google.com/compute/docs/gpus/install-drivers-gpu):
+curl https://raw.githubusercontent.com/GoogleCloudPlatform/compute-gpu-installation/main/linux/install_gpu_driver.py --output install_gpu_driver.py
+sudo python3 install_gpu_driver.py
+
+It may shudown the VM, need to restart.
+ERROR: Not enough space. need fix.
+list top 20 largest file
+sudo /sbin/fdisk -l
+sudo lsblk
+du -a . | sort -n -r | head -n 20
+gcloud compute --project "seekwell-scheduler-183021" instances create "myapp" --boot-disk-size "500GB"
+
+sudo apt-get install python3-pip
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu114
+pip install pandas
+
+sync files -
+
+scp -r ./getwebtext/*.py shuangludai@34.168.43.23:/home/shuangludai/getwebtext
+scp -r ./getwebtext/ais shuangludai@34.168.43.23:/home/shuangludai/getwebtext
+scp -r ./getwebtext/config shuangludai@34.168.43.23:/home/shuangludai/getwebtext
+scp -r ./getwebtext/svo shuangludai@34.168.43.23:/home/shuangludai/getwebtext
+scp -r ./getwebtext/fasttext shuangludai@34.168.43.23:/home/shuangludai/getwebtext
+scp -r ./getwebtext/MTurk* shuangludai@34.168.43.23:/home/shuangludai/getwebtext
+
+sync data model -
+scp -r ./getwebtext/data_model/*cf* shuangludai@34.168.43.23:/home/shuangludai/getwebtext/data_model
+scp -r ./getwebtext/data_model/*.zip shuangludai@34.168.43.23:/home/shuangludai/getwebtext/data_model
+
+unzip file on linux server -
+sudo apt-get install unzip
+unzip file.zip -d destination_folder
+unzip file.zip

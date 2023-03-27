@@ -1,0 +1,2650 @@
+C:\Users\shud0\AppData\Local\Programs\Python\Python37\python.exe "C:\Program Files\JetBrains\PyCharm Community Edition 2021.2.3\plugins\python-ce\helpers\pydev\pydevd.py" --multiproc --qt-support=auto --client 127.0.0.1 --port 56858 --file C:/Users/shud0/Desktop/accountingInfoRetrieval-main/getwebtext/ticker_utils.py
+Connected to pydev debugger (build 212.5457.59)
+input company: 1000 dreams fund
+None
+input company: 111
+None
+input company: 1 800 flowers com
+similarity:  1.0 , find company: 1 800 flowers com
+FLWS
+input company: 26 capital
+None
+input company: 2u
+similarity:  1.0 , find company: 2u
+TWOU
+input company: 36kr holdings
+similarity:  1.0 , find company: 36kr holdings
+KRKR
+input company: 37 games
+None
+input company: 7 eleven
+None
+input company: a spac i acquisition
+similarity:  1.0 , find company: a spac i acquisition
+ASCA
+input company: a spac ii acquisition
+similarity:  0.8 , find company: a spac ii acquisition oration
+ASCBU
+input company: abbvie
+similarity:  1.0 , find company: abbvie
+ABBV
+input company: abu dhabi global market
+None
+input company: academy sports outdoors
+similarity:  0.75 , find company: academy sports and outdoors
+ASO
+input company: accelerate diagnostics
+similarity:  1.0 , find company: accelerate diagnostics
+AXDX
+input company: accolade
+similarity:  1.0 , find company: accolade
+ACCD
+input company: accuray orporated
+similarity:  1.0 , find company: accuray orporated
+ARAY
+input company: acelrx pharmaceuticals
+similarity:  1.0 , find company: acelrx pharmaceuticals
+ACRX
+input company: acme tools
+None
+input company: actinium pharmaceuticals
+None
+input company: acurx pharmaceuticals
+similarity:  1.0 , find company: acurx pharmaceuticals
+ACXP
+input company: adp ir
+None
+input company: adtheorent
+None
+input company: advanced human imaging
+None
+input company: advanced oxygen therapy
+None
+input company: affamed therapeutics
+None
+input company: agba acquisition limited
+similarity:  0.6666666666666666 , find company: agba acquisition
+AGBA
+input company: agm holdings
+similarity:  1.0 , find company: agm holdings
+AGMH
+input company: agnc investment
+similarity:  0.6666666666666666 , find company: agnc investment oration
+AGNC
+input company: aikido pharma
+None
+input company: aimfinity investment i
+similarity:  0.75 , find company: aimfinity investment oration i
+AIMAU
+input company: airbnb
+similarity:  1.0 , find company: airbnb
+ABNB
+input company: aireye
+None
+input company: airnet technology
+None
+input company: akamai technologies
+similarity:  1.0 , find company: akamai technologies
+AKAM
+input company: akebia therapeutics
+similarity:  1.0 , find company: akebia therapeutics
+AKBA
+input company: aleph
+None
+input company: algorand
+None
+input company: alj regional holdings
+similarity:  1.0 , find company: alj regional holdings
+ALJJ
+input company: alj regional holdings
+similarity:  1.0 , find company: alj regional holdings
+ALJJ
+input company: alkami technology
+similarity:  1.0 , find company: alkami technology
+ALKT
+input company: alkermes plc
+similarity:  1.0 , find company: alkermes plc
+ALKS
+input company: allegiant travelmpany
+similarity:  1.0 , find company: allegiant travelmpany
+ALGT
+input company: alliance data systems oration
+similarity:  0.75 , find company: alliance data systems
+ADS
+input company: alligator bioscience
+None
+input company: allot
+similarity:  1.0 , find company: allot
+ALLT
+input company: alpha tau medical healthcare capital
+similarity:  0.6 , find company: alpha tau medical
+DRTS
+input company: alps advisors
+None
+input company: alterity therapeutics
+similarity:  1.0 , find company: alterity therapeutics
+ATHE
+input company: altisource portfolio solutions s a
+similarity:  1.0 , find company: altisource portfolio solutions s a
+ASPSV
+input company: amerant bank
+None
+input company: american finance trust
+similarity:  0.6666666666666666 , find company: american financial trust
+AFIN
+input company: american outdoor brands
+similarity:  1.0 , find company: american outdoor brands
+AOUTV
+input company: american public education
+similarity:  1.0 , find company: american public education
+APEI
+input company: american public university system
+None
+input company: ameris ban
+similarity:  1.0 , find company: ameris ban
+ABCB
+input company: amesite
+similarity:  1.0 , find company: amesite
+AMST
+input company: amplify snack brands
+similarity:  1.0 , find company: amplify snack brands
+BETR
+input company: amyris
+similarity:  1.0 , find company: amyris
+AMRS
+input company: analytics
+None
+input company: angi
+similarity:  1.0 , find company: angi
+ANGI
+input company: anixa biosciences
+similarity:  1.0 , find company: anixa biosciences
+ANIX
+input company: ansys
+similarity:  1.0 , find company: ansys
+ANSS
+input company: antelope enterprise holdings limited
+similarity:  0.75 , find company: antelope enterprise holdings
+AEHL
+input company: aon plc
+similarity:  1.0 , find company: aon plc
+AON
+input company: apollo medical holdings
+similarity:  1.0 , find company: apollo medical holdings
+AMEH
+input company: appian
+None
+input company: arbe
+None
+input company: arcaea
+None
+input company: ardelyx
+similarity:  1.0 , find company: ardelyx
+ARDX
+input company: arhaus llc
+None
+input company: aridis pharmaceuticals
+similarity:  1.0 , find company: aridis pharmaceuticals
+ARDS
+input company: armata pharmaceuticals
+None
+input company: assa abloy
+None
+input company: astrazeneca
+None
+input company: atif holdings limited
+similarity:  0.6666666666666666 , find company: atif holdings
+ATIF
+input company: atlis motor vehicles atlis
+None
+input company: atos
+None
+input company: audiocodes
+similarity:  1.0 , find company: audiocodes
+AUDC
+input company: aurora cannabis
+similarity:  1.0 , find company: aurora cannabis
+ACB
+input company: aurora technology acquisition
+similarity:  0.75 , find company: aurora technology acquisition oration
+ATAKU
+input company: autograph
+None
+input company: autohome
+None
+input company: autoliv
+similarity:  1.0 , find company: autoliv
+ALV
+input company: avalon park group
+None
+input company: aveanna healthcare
+similarity:  0.6666666666666666 , find company: aveanna healthcare holdings
+AVAH
+input company: aviat networks
+similarity:  1.0 , find company: aviat networks
+AVNW
+input company: avidity biosciences
+similarity:  1.0 , find company: avidity biosciences
+RNA
+input company: axcelis technologies
+similarity:  1.0 , find company: axcelis technologies
+ACLS
+input company: axon
+None
+input company: axs investments
+None
+input company: azenta
+similarity:  1.0 , find company: azenta
+AZTA
+input company: azz
+similarity:  1.0 , find company: azz
+AZZ
+input company: b riley financial
+similarity:  1.0 , find company: b riley financial
+RILYH
+input company: baidu
+None
+input company: baldwin risk partners
+None
+input company: ballys interactive
+None
+input company: bandwidth
+similarity:  1.0 , find company: bandwidth
+BAND
+input company: bank first oration
+similarity:  1.0 , find company: bank first oration
+BFC
+input company: bank of america oration
+similarity:  1.0 , find company: bank of america oration
+BAC
+input company: bank of south carolina oration
+similarity:  1.0 , find company: bank of south carolina oration
+BKSC
+input company: bank7
+None
+input company: bankprov
+None
+input company: basic fun
+None
+input company: bausch healthmpanies
+similarity:  1.0 , find company: bausch healthmpanies
+BHC
+input company: bausch healthmpanies clearside biomedical
+None
+input company: beach point capital management
+None
+input company: beltone
+None
+input company: benefitfocus
+similarity:  1.0 , find company: benefitfocus
+BNFT
+input company: benitec biopharma
+similarity:  0.6666666666666666 , find company: benitec biopharma limited
+BNTC
+input company: benzinga
+None
+input company: bernstein liebhard llp
+None
+input company: best
+None
+input company: betterware de mexico
+None
+input company: betterware de mxico s a b de c v
+similarity:  0.5555555555555556 , find company: elamex s a de c v
+ELAM
+input company: bfg partners
+None
+input company: bigid
+None
+input company: bio techne oration
+similarity:  1.0 , find company: bio techne oration
+TECH
+input company: bioatla
+similarity:  1.0 , find company: bioatla
+BCAB
+input company: biocytogen
+None
+input company: biolase
+similarity:  1.0 , find company: biolase
+BIOL
+input company: biolinerx
+None
+input company: biolinerx
+None
+input company: biomica
+None
+input company: biotech acquisitionmpany
+similarity:  1.0 , find company: biotech acquisitionmpany
+BIOT
+input company: blackbaud
+similarity:  1.0 , find company: blackbaud
+BLKB
+input company: blackberry limited
+similarity:  1.0 , find company: blackberry limited
+BBRY
+input company: blackline
+similarity:  1.0 , find company: blackline
+BL
+input company: blue hat interactive entertainment technology
+similarity:  1.0 , find company: blue hat interactive entertainment technology
+BHAT
+input company: blue ocean acquisition
+similarity:  0.75 , find company: blue ocean acquisition oration
+BOCN
+input company: blue shield of california
+None
+input company: bluecity holdings limited
+similarity:  0.6666666666666666 , find company: bb holdings limited
+BBHL
+input company: blueprint medicines oration
+similarity:  1.0 , find company: blueprint medicines oration
+BPMC
+input company: bon natural life limited
+similarity:  0.75 , find company: bon natural life
+BON
+input company: booking holdings
+similarity:  1.0 , find company: booking holdings
+BKNG
+input company: booking com
+None
+input company: boost mobile
+None
+input company: bounce
+None
+input company: brainstorm cell therapeutics
+similarity:  1.0 , find company: brainstorm cell therapeutics
+BCLI
+input company: breeze holdings acquisition
+similarity:  0.75 , find company: breeze holdings acquisition oration
+BREZ
+input company: brilliant acquisition oration
+similarity:  0.6666666666666666 , find company: acenvergence acquisition oration
+ACEV
+input company: brilliant acquisitions
+None
+input company: britehorn partners llc
+similarity:  0.6666666666666666 , find company: seadrill partners llc
+SDLP
+input company: brodsky smith llc
+None
+input company: brp
+similarity:  1.0 , find company: brp
+BRP
+input company: brv china
+None
+input company: bsquare
+similarity:  1.0 , find company: bsquare
+BSQRD
+input company: buybuy baby
+None
+input company: byrna technologies
+similarity:  1.0 , find company: byrna technologies
+BYRN
+input company: cadiz
+similarity:  1.0 , find company: cadiz
+CDZI
+input company: caesars entertainment
+similarity:  1.0 , find company: caesars entertainment
+CZR
+input company: caesars entertainment
+similarity:  1.0 , find company: caesars entertainment
+CZR
+input company: calamos investments
+None
+input company: calamp
+similarity:  1.0 , find company: calamp
+CAMP
+input company: calumet specialty products partners l p
+None
+input company: cambium networks
+similarity:  0.6666666666666666 , find company: cambium networks oration
+CMBM
+input company: cambridge ban
+None
+input company: camden national oration
+similarity:  1.0 , find company: camden national oration
+CAC
+input company: camtek
+similarity:  1.0 , find company: camtek
+CAMT
+input company: camtek
+similarity:  1.0 , find company: camtek
+CAMT
+input company: canadian solar
+similarity:  1.0 , find company: canadian solar
+CSIQ
+input company: canonic
+None
+input company: canoo
+similarity:  1.0 , find company: canoo
+GOEV
+input company: capital rx
+None
+input company: capital square
+None
+input company: caravelle
+None
+input company: carbon neutral royalty
+None
+input company: cardiff oncology
+similarity:  1.0 , find company: cardiff oncology
+CRDF
+input company: carlotz
+similarity:  1.0 , find company: carlotz
+LOTZ
+input company: carrier global oration marriott international
+similarity:  0.6 , find company: carrier global oration
+CARR
+input company: cars com
+None
+input company: carsgen therapeutics
+None
+input company: cartica acquisition
+similarity:  0.6666666666666666 , find company: cartica acquisition oration
+CITE
+input company: casi pharmaceuticals
+similarity:  1.0 , find company: casi pharmaceuticals
+CASI
+input company: cbak energy technology
+similarity:  1.0 , find company: cbak energy technology
+CBAT
+input company: ceco environmental
+similarity:  0.6666666666666666 , find company: ceco environmental oration
+CECE
+input company: cedar realty trust
+similarity:  1.0 , find company: cedar realty trust
+CDR
+input company: celsius holdings
+similarity:  1.0 , find company: celsius holdings
+CELH
+input company: centro benefits research
+None
+input company: century aluminum
+similarity:  1.0 , find company: century aluminum
+CENX
+input company: century casinos
+similarity:  1.0 , find company: century casinos
+CNTY
+input company: ceragon networks
+similarity:  1.0 , find company: ceragon networks
+CRNT
+input company: ceragon networks
+similarity:  1.0 , find company: ceragon networks
+CRNT
+input company: cerner
+None
+input company: ceva
+similarity:  1.0 , find company: ceva
+CEVA
+input company: cf acquisition vii
+similarity:  0.75 , find company: cf acquisition oration vii
+CFFSU
+input company: cf bankshares
+similarity:  1.0 , find company: cf bankshares
+CFBK
+input company: change
+None
+input company: charles lvard
+None
+input company: chartermmunications
+None
+input company: check cap
+similarity:  1.0 , find company: check cap
+CHEK
+input company: chemomab therapeutics
+None
+input company: chesapeake energy oration
+similarity:  1.0 , find company: chesapeake energy oration
+CHK
+input company: china automotive systems
+similarity:  1.0 , find company: china automotive systems
+CAAS
+input company: china jo jo drugstores
+similarity:  1.0 , find company: china jo jo drugstores
+CJJD
+input company: china liberal education holdings limited
+similarity:  0.8 , find company: china liberal education holdings
+CLEU
+input company: chipmos technologies
+None
+input company: choiceone financial services
+similarity:  1.0 , find company: choiceone financial services
+COFS
+input company: christopher bates
+None
+input company: chs
+None
+input company: cisco systems
+similarity:  1.0 , find company: cisco systems
+CSCO
+input company: cision ab
+None
+input company: cit a division of first citizens bank
+None
+input company: citius pharmaceuticals
+similarity:  1.0 , find company: citius pharmaceuticals
+CTXR
+input company: claimsfiler
+None
+input company: cleanspark
+similarity:  1.0 , find company: cleanspark
+CLSK
+input company: clearlake capital l p symplr
+None
+input company: clearsign technologies oration
+similarity:  1.0 , find company: clearsign technologies oration
+CLIR
+input company: clps
+None
+input company: cns pharmaceuticals
+similarity:  1.0 , find company: cns pharmaceuticals
+CNSP
+input company: coeptis therapeutics
+None
+input company: cognex oration
+similarity:  1.0 , find company: cognex oration
+CGNX
+input company: coherent
+similarity:  1.0 , find company: coherent
+COHR
+input company: coinshares group
+None
+input company: collplant
+None
+input company: collplant cellink
+None
+input company: colonial federal savings bank
+None
+input company: color star technology
+similarity:  0.6666666666666666 , find company: color star technologympany
+HHT
+input company: columbia bank
+None
+input company: columbia banking system
+similarity:  1.0 , find company: columbia banking system
+COLB
+input company: comcast
+None
+input company: commvault
+None
+input company: compugen
+similarity:  1.0 , find company: compugen
+CGEN
+input company: comscore
+similarity:  1.0 , find company: comscore
+SCOR
+input company: conns homeplus
+None
+input company: corbus pharmaceuticals
+similarity:  0.6666666666666666 , find company: corbus pharmaceuticals holdings
+CRBP
+input company: couchbase
+similarity:  1.0 , find company: couchbase
+BASE
+input company: coupa software
+similarity:  1.0 , find company: coupa software
+COUP
+input company: creative medical technology holdings
+similarity:  1.0 , find company: creative medical technology holdings
+CELZ
+input company: credit suisse ag
+similarity:  0.6666666666666666 , find company: credit suisse group
+CS
+input company: cresud s a c i f y a
+similarity:  1.0 , find company: cresud s a c i f y a
+CRESY
+input company: criteo
+None
+input company: criteo s a
+similarity:  0.6666666666666666 , find company: qgognstellation s a
+QGOG
+input company: crown electrokinetics
+similarity:  0.6666666666666666 , find company: crown electrokinetics oration
+CRKN
+input company: cryoport
+similarity:  1.0 , find company: cryoport
+CYRX
+input company: crypto com
+None
+input company: csl behring
+None
+input company: cti biopharma
+similarity:  0.6666666666666666 , find company: cti biopharma oration
+CTIC
+input company: cue health
+similarity:  1.0 , find company: cue health
+HLTH
+input company: cumberland pharmaceuticals
+None
+input company: curebase
+None
+input company: curis
+similarity:  1.0 , find company: curis
+CRIS
+input company: cytosorbents oration
+similarity:  1.0 , find company: cytosorbents oration
+CTSO
+input company: cytovia therapeutics
+None
+input company: d id
+None
+input company: dada group
+None
+input company: dalriada drug discovery
+None
+input company: damato law firm
+None
+input company: datadirect networks ddn
+None
+input company: datadog
+similarity:  1.0 , find company: datadog
+DDOG
+input company: dave busters
+None
+input company: david meltzer enterprises
+None
+input company: deepcrawl
+None
+input company: defi technologies
+None
+input company: delek us holdings delek logistics partners lp
+similarity:  0.5714285714285714 , find company: delek logistics partners lp
+DKL
+input company: denali capital acquisition
+similarity:  0.75 , find company: denali capital acquisition oration
+DECAU
+input company: denso
+None
+input company: diamond hill investment
+similarity:  1.0 , find company: diamond hill investment
+DHIL
+input company: digimarc oration
+similarity:  1.0 , find company: digimarc oration
+DMRC
+input company: digital prime technologies
+None
+input company: digital turbine
+similarity:  1.0 , find company: digital turbine
+APPS
+input company: direct digital holdings
+similarity:  1.0 , find company: direct digital holdings
+DRCT
+input company: discovery
+similarity:  1.0 , find company: discovery
+DISCA
+input company: dish network oration
+similarity:  1.0 , find company: dish network oration
+DISH
+input company: diversey
+None
+input company: div
+None
+input company: dje holdings
+None
+input company: docsend
+None
+input company: dogness international oration
+similarity:  1.0 , find company: dogness international oration
+DOGZ
+input company: douyu international holdings limited
+similarity:  0.75 , find company: douyu international holdings
+DOYU
+input company: dtf tax free ome 2028 term fund
+similarity:  1.0 , find company: dtf tax free ome 2028 term fund
+DTF
+input company: duff phelps utility and infrastructure fund
+similarity:  0.8571428571428571 , find company: duff and phelps utility and infrastructure fund
+DPG
+input company: durect oration
+None
+input company: easterseals
+None
+input company: ebay
+None
+input company: ebay on behalf of glide
+None
+input company: ebet
+similarity:  1.0 , find company: ebet
+EBET
+input company: echostar oration
+similarity:  1.0 , find company: echostar oration
+SATSV
+input company: ecp environmental growth opportunities
+similarity:  0.8 , find company: ecp environmental growth opportunities oration
+ENNV
+input company: ehealth
+None
+input company: eiger biopharmaceuticals
+similarity:  1.0 , find company: eiger biopharmaceuticals
+EIGR
+input company: eisai
+None
+input company: elbit systems
+similarity:  1.0 , find company: elbit systems
+ESLT
+input company: elbit systems
+similarity:  1.0 , find company: elbit systems
+ESLT
+input company: elder research
+None
+input company: electro sensors
+similarity:  1.0 , find company: electro sensors
+ELSE
+input company: elevation oncology
+similarity:  1.0 , find company: elevation oncology
+ELEV
+input company: eli lilly andmpany
+similarity:  0.6666666666666666 , find company: eli lilly and
+LLY
+input company: elite education international limited
+similarity:  0.75 , find company: elite education international
+EEIQ
+input company: elliott investment management l p
+None
+input company: eltek
+similarity:  1.0 , find company: eltek
+ELTK
+input company: emed
+None
+input company: endo international plc
+similarity:  1.0 , find company: endo international plc
+ENDP
+input company: energy services of america oration
+similarity:  1.0 , find company: energy services of america oration
+ESOA
+input company: enteris biopharma
+None
+input company: enveric biosciences
+similarity:  1.0 , find company: enveric biosciences
+ENVB
+input company: eplus
+None
+input company: eqonex
+None
+input company: eqonex digivault
+None
+input company: eqt
+None
+input company: equifax
+similarity:  1.0 , find company: equifax
+EFX
+input company: ericsson
+None
+input company: escalade
+similarity:  1.0 , find company: escalade
+ESCA
+input company: escalade orporated
+None
+input company: esports technologies
+None
+input company: essity
+None
+input company: etsy
+similarity:  1.0 , find company: etsy
+ETSY
+input company: etsy
+similarity:  1.0 , find company: etsy
+ETSY
+input company: eventide asset management
+similarity:  0.6666666666666666 , find company: calamos asset management
+CLMS
+input company: ever glory international
+similarity:  1.0 , find company: ever glory international
+EVK
+input company: everfi
+None
+input company: evofem biosciences
+similarity:  1.0 , find company: evofem biosciences
+EVFM
+input company: evogene
+similarity:  1.0 , find company: evogene
+EVGN
+input company: ewpg holding ab
+None
+input company: ewpg holding ab publ
+None
+input company: exact sciences
+similarity:  0.6666666666666666 , find company: exact sciences oration
+EXAS
+input company: exact sciences oration
+similarity:  1.0 , find company: exact sciences oration
+EXAS
+input company: expion360
+similarity:  1.0 , find company: expion360
+XPON
+input company: extreme networks
+similarity:  1.0 , find company: extreme networks
+EXTR
+input company: eyelock llc
+None
+input company: eyepoint pharmaceuticals
+similarity:  1.0 , find company: eyepoint pharmaceuticals
+EYPT
+input company: farmmi
+similarity:  1.0 , find company: farmmi
+FAMI
+input company: faro
+None
+input company: fast
+None
+input company: fathom holdings
+similarity:  1.0 , find company: fathom holdings
+FTHM
+input company: fathom realty
+None
+input company: fenics software limited
+None
+input company: fetch rewards
+None
+input company: fgi industries
+similarity:  1.0 , find company: fgi industries
+FGI
+input company: financialbuzz com
+None
+input company: financialnewsmedia com
+None
+input company: first ban
+similarity:  1.0 , find company: first ban
+FBNC
+input company: first bank
+similarity:  1.0 , find company: first bank
+FRBA
+input company: first century bank n a
+None
+input company: first financial ban
+similarity:  1.0 , find company: first financial ban
+FFBC
+input company: first financial bankshares
+similarity:  1.0 , find company: first financial bankshares
+FFIN
+input company: first united oration
+similarity:  1.0 , find company: first united oration
+FUNC
+input company: flex
+similarity:  1.0 , find company: flex
+FLEX
+input company: flextronics
+None
+input company: forrester
+None
+input company: fortegra
+None
+input company: forward air
+similarity:  0.6666666666666666 , find company: forward air oration
+FWRD
+input company: foxwayne enterprises acquisition
+similarity:  0.75 , find company: foxwayne enterprises acquisition oration
+FOXW
+input company: franklin financial services oration
+similarity:  1.0 , find company: franklin financial services oration
+FRAF
+input company: frito lay
+None
+input company: frito lay north america
+None
+input company: frontgate
+None
+input company: frontgate marketing
+None
+input company: ftc solar
+similarity:  1.0 , find company: ftc solar
+FTCI
+input company: fusion pharmaceuticals
+similarity:  1.0 , find company: fusion pharmaceuticals
+FUSN
+input company: fuwei films
+similarity:  0.6666666666666666 , find company: fuwei films holdingsmpany
+FFHL
+input company: g2 capital advisors
+None
+input company: galderma
+None
+input company: galileo financial technologies
+None
+input company: gambling com group
+None
+input company: geneos therapeutics
+None
+input company: genz ev solutions
+None
+input company: gesher i acquisition
+similarity:  0.75 , find company: gesher i acquisition oration
+GIAC
+input company: ggv capital
+None
+input company: gigamedia
+similarity:  1.0 , find company: gigamedia
+GIGM
+input company: ginkgo bioworks
+similarity:  0.6666666666666666 , find company: ginkgo bioworks holdings
+DNA
+input company: glenmark pharmaceuticals
+None
+input company: globalrd blood oration
+similarity:  1.0 , find company: globalrd blood oration
+CO
+input company: global e
+similarity:  0.6666666666666666 , find company: global e online
+GLBE
+input company: global x managementmpany llc
+None
+input company: globalfoundries gf
+None
+input company: globeop ssc
+None
+input company: glynt ai
+None
+input company: gns healthcare
+None
+input company: gogo business aviation
+None
+input company: gogoro
+similarity:  1.0 , find company: gogoro
+GGR
+input company: gohealth
+similarity:  1.0 , find company: gohealth
+GOCO
+input company: gol linhas areas inteligentes s a
+None
+input company: golub capital bdc
+similarity:  1.0 , find company: golub capital bdc
+GBDC
+input company: google cloud
+None
+input company: google google cloud
+None
+input company: gracell biotechnologies
+None
+input company: great wall capital
+None
+input company: greater msp
+None
+input company: greenidge generation holdings
+similarity:  1.0 , find company: greenidge generation holdings
+GREE
+input company: greenland technologies holding oration
+similarity:  1.0 , find company: greenland technologies holding oration
+GTEC
+input company: greenland technologies holding oration cyngn
+similarity:  0.8 , find company: greenland technologies holding oration
+GTEC
+input company: greenlight biosciences
+None
+input company: greenpower motormpany
+similarity:  1.0 , find company: greenpower motormpany
+GP
+input company: grifols
+None
+input company: grifols usa
+None
+input company: grom social enterprises
+similarity:  1.0 , find company: grom social enterprises
+GROM
+input company: 11
+None
+input company: grubhub
+similarity:  1.0 , find company: grubhub
+GRUB
+input company: gse systems
+similarity:  0.6666666666666666 , find company: gse systems orporated
+GVP
+input company: gyrodyne llc
+similarity:  1.0 , find company: gyrodyne llc
+GYRO
+input company: hagens berman sobol shapiro llp
+None
+input company: hailiang education
+None
+input company: halollective
+None
+input company: halper sadeh llp
+None
+input company: hamilton lane
+similarity:  1.0 , find company: hamilton lane
+HLNE
+input company: harbor international llc
+None
+input company: harbour biomed
+None
+input company: harmonic
+similarity:  1.0 , find company: harmonic
+HLIT
+input company: harmony biosciences
+similarity:  0.6666666666666666 , find company: harmony biosciences holdings
+HRMY
+input company: hawaiian airlines
+None
+input company: hawaiian airlines
+None
+input company: health catalyst
+similarity:  1.0 , find company: health catalyst
+HCAT
+input company: healthcare ai acquisition
+similarity:  0.75 , find company: healthcare ai acquisition oration
+HAIAU
+input company: healthcare trust
+similarity:  0.6666666666666666 , find company: diversified healthcare trust
+DHC
+input company: heffernan financial services
+similarity:  0.6666666666666666 , find company: amtrust financial services
+AFSI
+input company: hello
+None
+input company: hemisphere media
+similarity:  1.0 , find company: hemisphere media
+HMTV
+input company: hepsiburada
+None
+input company: heritage financial oration
+similarity:  1.0 , find company: heritage financial oration
+HFWA
+input company: heron therapeutics
+None
+input company: hertz global holdings
+similarity:  1.0 , find company: hertz global holdings
+HTZ
+input company: hey humans
+None
+input company: high tide
+similarity:  1.0 , find company: high tide
+HITI
+input company: hilco redevelopment partners
+None
+input company: home ban
+similarity:  1.0 , find company: home ban
+HBCP
+input company: horizon technology finance oration
+similarity:  1.0 , find company: horizon technology finance oration
+HRZN
+input company: hostess brands
+similarity:  1.0 , find company: hostess brands
+TWNK
+input company: hoth therapeutics
+similarity:  1.0 , find company: hoth therapeutics
+HOTH
+input company: house of saka
+None
+input company: houston natural resources
+similarity:  0.6666666666666666 , find company: china natural resources
+CHNR
+input company: hover
+None
+input company: hub security
+None
+input company: hub security mount rainier acquisition
+None
+input company: huntington bancshares
+similarity:  1.0 , find company: huntington bancshares
+HBAN
+input company: huntington bancshares orporated
+similarity:  0.6666666666666666 , find company: huntington bancshares
+HBAN
+input company: huntington national bank
+None
+input company: hycroft mining holding oration
+similarity:  1.0 , find company: hycroft mining holding oration
+HYMC
+input company: hydro flask
+None
+input company: hypebeast
+None
+input company: hyzon
+None
+input company: hyzon motors
+similarity:  1.0 , find company: hyzon motors
+HYZN
+input company: i mab
+None
+input company: icahn enterprises l p
+None
+input company: icecure medical
+similarity:  1.0 , find company: icecure medical
+ICCM
+input company: icf
+None
+input company: iclick interactive asia limited
+None
+input company: icr betterware de mexico
+None
+input company: ideaya biosciences
+similarity:  1.0 , find company: ideaya biosciences
+IDYA
+input company: identiv
+similarity:  1.0 , find company: identiv
+INVE
+input company: idexx laboratories
+similarity:  1.0 , find company: idexx laboratories
+IDXX
+input company: illumicare
+None
+input company: im cannabis
+similarity:  0.6666666666666666 , find company: im cannabis oration
+IMCC
+input company: immunic
+similarity:  1.0 , find company: immunic
+IMUX
+input company: inbrace
+None
+input company: annex healthcare limited
+None
+input company: omm payments
+None
+input company: indiana michigan power
+None
+input company: infobird
+None
+input company: infobird
+None
+input company: infosys
+None
+input company: inhibikase therapeutics
+similarity:  1.0 , find company: inhibikase therapeutics
+IKT
+input company: inhibrx
+similarity:  1.0 , find company: inhibrx
+INBX
+input company: inmagene biopharmaceuticals
+None
+input company: inmode
+similarity:  1.0 , find company: inmode
+INMD
+input company: inmode
+similarity:  1.0 , find company: inmode
+INMD
+input company: innoviz technologies
+similarity:  1.0 , find company: innoviz technologies
+INVZW
+input company: inovio pharmaceuticals
+similarity:  0.6666666666666666 , find company: inovio pharmaceuticals new
+INO
+input company: inpixon
+similarity:  1.0 , find company: inpixon
+INPX
+input company: insmed orporated
+None
+input company: inspira technologies
+None
+input company: insure com
+similarity:  1.0 , find company: insure com
+NSUR
+input company: integral ad science ias
+None
+input company: integrated media technology limited
+None
+input company: interface
+similarity:  1.0 , find company: interface
+TILE
+input company: interlink electronics
+similarity:  1.0 , find company: interlink electronics
+LINK
+input company: internet2
+None
+input company: invaio sciences
+None
+input company: invesco
+similarity:  1.0 , find company: invesco
+IVZ
+input company: investors ban
+similarity:  1.0 , find company: investors ban
+ISBC
+input company: invo bioscience
+similarity:  1.0 , find company: invo bioscience
+INVO
+input company: involta llc
+None
+input company: ionis pharmaceuticals
+similarity:  1.0 , find company: ionis pharmaceuticals
+IONS
+input company: iou financial
+None
+input company: iqiyi
+None
+input company: iridiummmunications
+similarity:  1.0 , find company: iridiummmunications
+IRDM
+input company: iroquois capital management llc
+similarity:  0.75 , find company: mma capital management llc
+MMABD
+input company: ita ba unibanco holding s a
+None
+input company: itc infotech
+None
+input company: itiquira acquisition
+similarity:  0.6666666666666666 , find company: itiquira acquisition oration
+ITQ
+input company: ituran location andntrol
+similarity:  1.0 , find company: ituran location andntrol
+ITRN
+input company: ituran location andntrol
+similarity:  1.0 , find company: ituran location andntrol
+ITRN
+input company: j p morgan asset management
+None
+input company: jabra
+None
+input company: jackpocket
+None
+input company: jakubowitz law
+None
+input company: jana partners llc
+similarity:  0.6666666666666666 , find company: seadrill partners llc
+SDLP
+input company: javara
+None
+input company: jennifer bettmmunications
+None
+input company: jewett cameron tradingmpany
+similarity:  1.0 , find company: jewett cameron tradingmpany
+JCTCF
+input company: jiuzi holdings
+similarity:  1.0 , find company: jiuzi holdings
+JZXN
+input company: jj snack foods
+None
+input company: jll ome property trust
+similarity:  0.75 , find company: alpine ome property trust
+PINE
+input company: jx luxventure limited
+similarity:  0.6666666666666666 , find company: jx luxventure
+LLL
+input company: kaival brands
+similarity:  0.6666666666666666 , find company: kaival brands innovations
+KAVL
+input company: kaplan fox kilsheimer llp
+None
+input company: karyopharm therapeutics
+similarity:  1.0 , find company: karyopharm therapeutics
+KPTI
+input company: kaskela law llc
+None
+input company: kaspien holdings
+similarity:  1.0 , find company: kaspien holdings
+KSPN
+input company: kca wealth management
+None
+input company: kelly services
+similarity:  1.0 , find company: kelly services
+KELYA
+input company: keurig dr pepper
+similarity:  1.0 , find company: keurig dr pepper
+KDP
+input company: kewaunee scientific oration
+similarity:  1.0 , find company: kewaunee scientific oration
+KEQU
+input company: kidpik
+None
+input company: kinmmunications
+None
+input company: kintara therapeutics
+similarity:  1.0 , find company: kintara therapeutics
+KTRA
+input company: knowify
+None
+input company: kodiak sciences
+similarity:  1.0 , find company: kodiak sciences
+KOD
+input company: kone
+None
+input company: korth direct mortgage
+None
+input company: kulicke soffa industries
+similarity:  0.75 , find company: kulicke and soffa industries
+KLIC
+input company: kuznicki law pllc
+None
+input company: kyndryl
+None
+input company: lakeshore acquisition i
+similarity:  0.75 , find company: lakeshore acquisition i oration
+LAAA
+input company: lakeshore acquisition ii
+similarity:  0.75 , find company: lakeshore acquisition ii oration
+LBBBU
+input company: lakeside bookmpany
+None
+input company: lambdatest
+None
+input company: lancasterlony oration
+similarity:  1.0 , find company: lancasterlony oration
+LANC
+input company: landisgyr
+None
+input company: landsea homes
+similarity:  0.6666666666666666 , find company: landsea homes oration
+LSEA
+input company: lanvin group
+None
+input company: latamgrowth spac
+similarity:  1.0 , find company: latamgrowth spac
+LATG
+input company: lavie bio
+None
+input company: law offices of howard g smith
+None
+input company: lazydays
+None
+input company: leap therapeutics
+similarity:  1.0 , find company: leap therapeutics
+LPTX
+input company: learfield
+None
+input company: lendingtree
+similarity:  1.0 , find company: lendingtree
+TREE
+input company: lendingtree
+similarity:  1.0 , find company: lendingtree
+TREE
+input company: levere holdings
+similarity:  0.6666666666666666 , find company: levere holdings oration
+LVRA
+input company: levi korsinsky llp
+None
+input company: levo mobility llc
+None
+input company: lhc
+None
+input company: liberty mutual insurance
+None
+input company: lifestance health
+similarity:  1.0 , find company: lifestance health
+LFST
+input company: lifeway foods
+similarity:  1.0 , find company: lifeway foods
+LWAY
+input company: lightwave logic
+similarity:  1.0 , find company: lightwave logic
+LWLG
+input company: liminal biosciences
+similarity:  1.0 , find company: liminal biosciences
+LMNL
+input company: lindblad expeditions holdings
+similarity:  1.0 , find company: lindblad expeditions holdings
+LIND
+input company: lion holding
+similarity:  1.0 , find company: lion holding
+LGHLW
+input company: lipocine
+similarity:  1.0 , find company: lipocine
+LPCN
+input company: liveone
+similarity:  1.0 , find company: liveone
+LVO
+input company: liveperson
+similarity:  1.0 , find company: liveperson
+LPSN
+input company: liveu
+None
+input company: lm funding america
+similarity:  1.0 , find company: lm funding america
+LMFA
+input company: lockheed martin
+similarity:  1.0 , find company: lockheed martin
+LMT
+input company: logicbio therapeutics
+similarity:  1.0 , find company: logicbio therapeutics
+LOGC
+input company: logicbio therapeutics
+similarity:  1.0 , find company: logicbio therapeutics
+LOGC
+input company: logicmark
+similarity:  1.0 , find company: logicmark
+LGMK
+input company: lomotif
+None
+input company: lordstown motors
+similarity:  0.6666666666666666 , find company: lordstown motors oration
+RIDE
+input company: lowesmpanies
+similarity:  1.0 , find company: lowesmpanies
+LOW
+input company: lucid motors
+None
+input company: lumentum
+None
+input company: lux row distillers
+None
+input company: magal security systems
+similarity:  1.0 , find company: magal security systems
+MAGS
+input company: magellan midstream partners l p
+similarity:  0.6 , find company: capital product partners l p
+CPLPV
+input company: magyar ban
+similarity:  1.0 , find company: magyar ban
+MGYR
+input company: main event entertainment
+None
+input company: mammoth energy services
+similarity:  1.0 , find company: mammoth energy services
+TUSK
+input company: mammoth energy services
+similarity:  1.0 , find company: mammoth energy services
+TUSK
+input company: marin software
+similarity:  0.6666666666666666 , find company: marin software orporated
+MRIN
+input company: marpai health
+None
+input company: marriott international
+similarity:  1.0 , find company: marriott international
+MAR
+input company: marvell
+None
+input company: match group
+None
+input company: mccaf at home
+similarity:  0.6666666666666666 , find company: at home
+HOME
+input company: mcdermott international
+similarity:  1.0 , find company: mcdermott international
+MDR
+input company: mcloud technologies
+None
+input company: meatech 3d
+None
+input company: medivir
+None
+input company: meihua international medical technologies
+similarity:  0.75 , find company: meihua international medical technologiesmpany
+MHUA
+input company: mercantile bank oration
+similarity:  1.0 , find company: mercantile bank oration
+MBWM
+input company: merchants ban
+similarity:  1.0 , find company: merchants ban
+MBIN
+input company: meta
+similarity:  1.0 , find company: meta
+METG
+input company: meten holding
+similarity:  1.0 , find company: meten holding
+METX
+input company: mgm resorts international
+similarity:  1.0 , find company: mgm resorts international
+MGM
+input company: mgp ingredients
+similarity:  1.0 , find company: mgp ingredients
+MGPI
+input company: microsoft oration
+similarity:  1.0 , find company: microsoft oration
+MSFT
+input company: micross
+None
+input company: microssmponents
+None
+input company: midwest holding
+similarity:  1.0 , find company: midwest holding
+MDWT
+input company: milk makeup
+None
+input company: millerknoll
+similarity:  1.0 , find company: millerknoll
+MLKN
+input company: mind medicine mindmed
+similarity:  1.0 , find company: mind medicine mindmed
+MNMD
+input company: mind technology
+similarity:  1.0 , find company: mind technology
+MIND
+input company: miso robotics
+None
+input company: mmtec
+similarity:  1.0 , find company: mmtec
+MTC
+input company: mobile video devices
+None
+input company: modamoda
+None
+input company: model performance acquisition
+similarity:  0.75 , find company: model performance acquisition oration
+MPAC
+input company: mondelez international
+similarity:  1.0 , find company: mondelez international
+MDLZ
+input company: moneygram
+None
+input company: moomoo
+None
+input company: morningstar
+similarity:  1.0 , find company: morningstar
+MORN
+input company: motor supply
+None
+input company: mt bank oration
+similarity:  0.6666666666666666 , find company: centerstate bank oration
+CSFL
+input company: mx
+None
+input company: mysize
+None
+input company: nanoform
+None
+input company: napco security technologies
+similarity:  1.0 , find company: napco security technologies
+NSSC
+input company: nasdaq entrepreneurial center
+None
+input company: natera
+similarity:  1.0 , find company: natera
+NTRA
+input company: national association of investorsbetterinvesting
+None
+input company: national western life
+similarity:  1.0 , find company: national western life
+NWLI
+input company: natural alternatives international
+similarity:  1.0 , find company: natural alternatives international
+NAII
+input company: natures sunshine products
+similarity:  1.0 , find company: natures sunshine products
+NATR
+input company: navitas semiconductor
+similarity:  0.6666666666666666 , find company: navitas semiconductor oration
+NVTS
+input company: nektar therapeutics
+similarity:  1.0 , find company: nektar therapeutics
+NKTR
+input company: neogen oration
+None
+input company: neonode
+similarity:  1.0 , find company: neonode
+NEONE
+input company: neopollard interactive
+None
+input company: nervos
+None
+input company: netease
+None
+input company: netflix
+similarity:  1.0 , find company: netflix
+NFLX
+input company: networknewswire
+None
+input company: neurobo pharmaceuticals
+similarity:  1.0 , find company: neurobo pharmaceuticals
+NRBO
+input company: neurocrine biosciences
+similarity:  1.0 , find company: neurocrine biosciences
+NBIX
+input company: neuroone medical technologies oration
+similarity:  1.0 , find company: neuroone medical technologies oration
+NMTC
+input company: newell brands
+similarity:  1.0 , find company: newell brands
+NWL
+input company: newmark
+similarity:  1.0 , find company: newmark
+NMRK
+input company: nexamp
+None
+input company: nexgel
+similarity:  1.0 , find company: nexgel
+NXGL
+input company: nga 911
+None
+input company: nickelodeon
+None
+input company: nicolet bankshares
+similarity:  1.0 , find company: nicolet bankshares
+NCBS
+input company: noble oration
+similarity:  1.0 , find company: noble oration
+NE
+input company: noodles mpany
+None
+input company: northwest bancshares
+similarity:  1.0 , find company: northwest bancshares
+NWBI
+input company: northwest bank
+None
+input company: nova
+similarity:  1.0 , find company: nova
+NVMI
+input company: nrx pharmaceuticals
+similarity:  1.0 , find company: nrx pharmaceuticals
+NRXP
+input company: nrx pharmaceuticals
+similarity:  1.0 , find company: nrx pharmaceuticals
+NRXP
+input company: nucor oration
+similarity:  1.0 , find company: nucor oration
+NUE
+input company: nutex health
+similarity:  1.0 , find company: nutex health
+NUTX
+input company: nuvalent
+similarity:  1.0 , find company: nuvalent
+NUVL
+input company: nuzee
+similarity:  1.0 , find company: nuzee
+NUZE
+input company: oakrum pharma llc
+None
+input company: oilprice com
+None
+input company: old point financial oration
+similarity:  1.0 , find company: old point financial oration
+OPOF
+input company: olin oration
+None
+input company: oncolytics biotech ae
+similarity:  0.6666666666666666 , find company: oncolytics biotech
+ONCY
+input company: oncosec medical orporated
+similarity:  1.0 , find company: oncosec medical orporated
+ONCS
+input company: onk therapeutics
+None
+input company: open text oration
+similarity:  1.0 , find company: open text oration
+OTEX
+input company: opentable
+None
+input company: opentable
+None
+input company: opera limited
+None
+input company: operation hope
+None
+input company: oppenheimer holdings
+similarity:  1.0 , find company: oppenheimer holdings
+OPY
+input company: optical cable oration
+similarity:  1.0 , find company: optical cable oration
+OCC
+input company: oramed pharmaceuticals
+similarity:  1.0 , find company: oramed pharmaceuticals
+ORMP
+input company: orbital energy
+similarity:  1.0 , find company: orbital energy
+OEG
+input company: orbital insight
+None
+input company: orexo
+None
+input company: oriental culture holding
+similarity:  0.6666666666666666 , find company: oriental culture holdings
+OCG
+input company: osmium partners llc
+similarity:  0.6666666666666666 , find company: seadrill partners llc
+SDLP
+input company: pacific western bank
+similarity:  0.6666666666666666 , find company: pacific union bank
+PUBB
+input company: pacifico acquisition
+similarity:  0.6666666666666666 , find company: pacifico acquisition oration
+PAFO
+input company: pacsun
+None
+input company: palo alto networks
+similarity:  1.0 , find company: palo alto networks
+PANW
+input company: pandora jewelry
+None
+input company: pangaea logistics solutions
+similarity:  1.0 , find company: pangaea logistics solutions
+PANL
+input company: papa johns international
+similarity:  1.0 , find company: papa johns international
+PZZA
+input company: paramount global
+similarity:  1.0 , find company: paramount global
+PARA
+input company: parke ban
+similarity:  1.0 , find company: parke ban
+PKBK
+input company: partnermmunicationsmpany
+None
+input company: pathalys pharma
+None
+input company: patrick industries
+similarity:  1.0 , find company: patrick industries
+PATK
+input company: paychex
+similarity:  1.0 , find company: paychex
+PAYX
+input company: paycor
+None
+input company: paypal holdings
+similarity:  1.0 , find company: paypal holdings
+PYPL
+input company: paypal
+None
+input company: penfed credit union
+None
+input company: peoples ban
+similarity:  1.0 , find company: peoples ban
+PFDC
+input company: peoples united financial
+similarity:  1.0 , find company: peoples united financial
+PBCTD
+input company: pepsico beverages north america
+None
+input company: pepsico
+similarity:  1.0 , find company: pepsico
+PEP
+input company: pepsico beyond meat
+similarity:  0.6666666666666666 , find company: beyond meat
+BYND
+input company: perpetua resources
+similarity:  0.6666666666666666 , find company: perpetua resources oration
+PPTA
+input company: pet supplies plus
+None
+input company: petco health and wellnessmpany
+similarity:  1.0 , find company: petco health and wellnessmpany
+WOOF
+input company: petros pharmaceuticals
+similarity:  1.0 , find company: petros pharmaceuticals
+PTPI
+input company: phio pharmaceuticals
+similarity:  0.6666666666666666 , find company: phio pharmaceuticals oration
+PHIO
+input company: phosphorus cybersecurity
+None
+input company: pintec
+None
+input company: pioneer power solutions
+similarity:  1.0 , find company: pioneer power solutions
+PPSI
+input company: pixelworks
+similarity:  1.0 , find company: pixelworks
+PXLWD
+input company: playa management usa llc
+None
+input company: playtika
+None
+input company: plby group
+None
+input company: plenty of fish
+None
+input company: polarityte
+similarity:  1.0 , find company: polarityte
+PTE
+input company: pollo tropical
+None
+input company: pomerantz llp
+None
+input company: populus financial
+None
+input company: poseida therapeutics
+similarity:  1.0 , find company: poseida therapeutics
+PSTX
+input company: poshmark
+similarity:  1.0 , find company: poshmark
+POSH
+input company: potbelly oration
+similarity:  1.0 , find company: potbelly oration
+PBPB
+input company: powell industries
+similarity:  1.0 , find company: powell industries
+POWL
+input company: powerbridge technologies
+None
+input company: pra group
+None
+input company: precigen
+similarity:  1.0 , find company: precigen
+PGEN
+input company: preformed line products
+similarity:  0.6666666666666666 , find company: preformed line productsmpany
+PLPC
+input company: priceline
+None
+input company: pricesmart
+similarity:  1.0 , find company: pricesmart
+PSMT
+input company: primis financial
+similarity:  0.6666666666666666 , find company: primis financial oration
+FRST
+input company: preton nuenergy
+None
+input company: pripal real estate ome fund
+similarity:  1.0 , find company: pripal real estate ome fund
+PGZ
+input company: professional fighters league pfl
+None
+input company: protagonist therapeutics
+similarity:  1.0 , find company: protagonist therapeutics
+PTGX
+input company: provention bio
+similarity:  1.0 , find company: provention bio
+PRVB
+input company: provident ban
+similarity:  1.0 , find company: provident ban
+PVBC
+input company: ptc
+similarity:  1.0 , find company: ptc
+PTC
+input company: ptc therapeutics
+similarity:  1.0 , find company: ptc therapeutics
+PTCT
+input company: publica
+None
+input company: pulmatrix
+similarity:  1.0 , find company: pulmatrix
+PULM
+input company: pure property management
+None
+input company: purecycle technologies
+similarity:  1.0 , find company: purecycle technologies
+PCT
+input company: purple innovation
+similarity:  1.0 , find company: purple innovation
+PRPL
+input company: pyramax bank 1895 ban of wisconsin
+None
+input company: qilian international holding limited
+similarity:  0.75 , find company: qilian international holding
+QLI
+input company: qiming venture partners
+None
+input company: qualcomm orporated
+None
+input company: qualtek services
+similarity:  1.0 , find company: qualtek services
+QTEK
+input company: quantum
+None
+input company: quantum leap healthcarellaborative
+None
+input company: quhuo limited
+None
+input company: quinstreet
+similarity:  1.0 , find company: quinstreet
+QNST
+input company: qurate retail group
+similarity:  0.6666666666666666 , find company: qurate retail
+QRTAV
+input company: qvc
+similarity:  1.0 , find company: qvc
+QVCD
+input company: rad intelligence
+None
+input company: radcom
+similarity:  1.0 , find company: radcom
+RDCM
+input company: ramaco resources
+similarity:  1.0 , find company: ramaco resources
+METC
+input company: rategain technologies
+None
+input company: rave restaurant
+similarity:  1.0 , find company: rave restaurant
+RAVE
+input company: rci hospitality holdings
+similarity:  1.0 , find company: rci hospitality holdings
+RICK
+input company: rci hospitality holdings bombshells restaurant bar
+None
+input company: reaction biology
+None
+input company: readly
+None
+input company: real good foods
+similarity:  0.6666666666666666 , find company: real good foodmpany
+RGF
+input company: real good foodsmpany
+similarity:  0.6666666666666666 , find company: real good foodmpany
+RGF
+input company: real luck
+None
+input company: realtor com
+None
+input company: realty ome oration
+similarity:  1.0 , find company: realty ome oration
+O
+input company: reckitt
+None
+input company: recon technology
+similarity:  1.0 , find company: recon technology
+RCON
+input company: recon technology
+similarity:  1.0 , find company: recon technology
+RCON
+input company: red cat holdings
+similarity:  1.0 , find company: red cat holdings
+RCAT
+input company: red robin gourmet burgers
+similarity:  1.0 , find company: red robin gourmet burgers
+RRGB
+input company: red rock resorts
+similarity:  1.0 , find company: red rock resorts
+RRR
+input company: redcloud technologies
+None
+input company: refuel agency
+None
+input company: regenxbio
+similarity:  1.0 , find company: regenxbio
+RGNX
+input company: regulus therapeutics
+similarity:  1.0 , find company: regulus therapeutics
+RGLS
+input company: relmada therapeutics
+similarity:  1.0 , find company: relmada therapeutics
+RLMD
+input company: remark holdings
+similarity:  1.0 , find company: remark holdings
+MARK
+input company: renew energy global plc
+similarity:  1.0 , find company: renew energy global plc
+RNW
+input company: renew power private limited
+None
+input company: renovare environmental
+similarity:  1.0 , find company: renovare environmental
+RENO
+input company: republic services
+similarity:  1.0 , find company: republic services
+RSG
+input company: republic services and us ecology
+None
+input company: research solutions
+similarity:  1.0 , find company: research solutions
+RSSS
+input company: resideo technologies
+similarity:  1.0 , find company: resideo technologies
+REZI
+input company: retailmenot
+None
+input company: reto eco solutions
+similarity:  1.0 , find company: reto eco solutions
+RETO
+input company: revere securities llc
+None
+input company: rhinebeck ban
+similarity:  1.0 , find company: rhinebeck ban
+RBKB
+input company: ribbonmmunications
+similarity:  1.0 , find company: ribbonmmunications
+RBBN
+input company: rigel pharmaceuticals
+similarity:  1.0 , find company: rigel pharmaceuticals
+RIGL
+input company: rise education cayman
+None
+input company: ritz
+None
+input company: rivernorth opportunities fund
+similarity:  1.0 , find company: rivernorth opportunities fund
+RIV
+input company: rm law p c
+None
+input company: robbins geller rudman dowd llp
+None
+input company: robokiller
+None
+input company: rock mountain capital
+None
+input company: rockford oration
+None
+input company: rockwell medical technologies
+similarity:  0.6666666666666666 , find company: helius medical technologies
+HSDT
+input company: ross squibb distillery
+None
+input company: ross stores
+similarity:  1.0 , find company: ross stores
+ROST
+input company: rowley law pllc
+None
+input company: rumble and cfvi
+None
+input company: sabre oration
+similarity:  1.0 , find company: sabre oration
+SABR
+input company: sagammunications
+similarity:  1.0 , find company: sagammunications
+SGA
+input company: sandbox aq
+None
+input company: sandbox banking
+None
+input company: sanmina oration
+similarity:  1.0 , find company: sanmina oration
+SANM
+input company: sapiens international oration
+similarity:  0.75 , find company: sapiens international oration nv
+SPNS
+input company: sapiens international oration builders insurance holdings s a
+None
+input company: savano capital partners
+None
+input company: schmitt industries
+similarity:  1.0 , find company: schmitt industries
+SMIT
+input company: scholastic
+None
+input company: scholastic oration
+similarity:  1.0 , find company: scholastic oration
+SCHL
+input company: scienjoy holding oration
+similarity:  1.0 , find company: scienjoy holding oration
+SJ
+input company: scientific games oration
+similarity:  1.0 , find company: scientific games oration
+SGMS
+input company: scisparc
+similarity:  1.0 , find company: scisparc
+SPRC
+input company: secoo group
+None
+input company: secoo holding limited
+similarity:  0.6666666666666666 , find company: boqii holding limited
+BQ
+input company: secureworks
+similarity:  1.0 , find company: secureworks
+SCWX
+input company: seelos therapeutics
+similarity:  1.0 , find company: seelos therapeutics
+SEEL
+input company: sei investmentsmpany
+similarity:  1.0 , find company: sei investmentsmpany
+SEIC
+input company: selective insurance
+similarity:  1.0 , find company: selective insurance
+SIGI
+input company: semler scientific
+None
+input company: sempre health
+None
+input company: senda biosciences
+None
+input company: senmiao technology limited
+similarity:  0.6666666666666666 , find company: senmiao technology
+AIHS
+input company: sensiml oration
+None
+input company: senstar technologies
+similarity:  1.0 , find company: senstar technologies
+SNT
+input company: sezzle
+None
+input company: shareholders foundation
+None
+input company: shift technology
+None
+input company: shipt
+None
+input company: shore bancshares
+similarity:  1.0 , find company: shore bancshares
+SHBI
+input company: shuaa partners acquisition i
+similarity:  0.8 , find company: shuaa partners acquisition oration i
+SHUAU
+input company: signal hill acquisition
+similarity:  0.75 , find company: signal hill acquisition oration
+SGHLU
+input company: silicon labs
+similarity:  1.0 , find company: silicon labs
+SLAB
+input company: silicon valley bank
+similarity:  0.6666666666666666 , find company: valley bank
+VLBK
+input company: simmons bank
+None
+input company: simply good foods
+similarity:  0.6666666666666666 , find company: simply good foodsmpany
+SMPL
+input company: sirius xm holdings
+similarity:  1.0 , find company: sirius xm holdings
+SIRI
+input company: skillful craftsman education technology
+similarity:  1.0 , find company: skillful craftsman education technology
+EDTK
+input company: sling tv l l c
+None
+input company: smartsky networks
+None
+input company: smith wesson brands
+similarity:  0.75 , find company: smith and wesson brands
+SWBI
+input company: soc telemed
+similarity:  1.0 , find company: soc telemed
+TLMD
+input company: society for science
+None
+input company: socket mobile
+similarity:  1.0 , find company: socket mobile
+SCKTD
+input company: solectrac
+None
+input company: soligenix
+similarity:  1.0 , find company: soligenix
+SNGX
+input company: sommerman mccaffity quesada geisler
+None
+input company: sonim technologies
+similarity:  1.0 , find company: sonim technologies
+SONM
+input company: sophia genetics
+similarity:  0.6666666666666666 , find company: sophia genetics sa
+SOPH
+input company: southern first bancshares
+similarity:  1.0 , find company: southern first bancshares
+SFST
+input company: spar
+similarity:  1.0 , find company: spar
+SGRP
+input company: spark networks
+similarity:  0.6666666666666666 , find company: spark networks se
+LOV
+input company: spark networks se
+similarity:  1.0 , find company: spark networks se
+LOV
+input company: spirit of texas bancshares
+similarity:  1.0 , find company: spirit of texas bancshares
+STXB
+input company: springbig
+None
+input company: srn advisors llc
+None
+input company: ssc alps advisors
+None
+input company: ssr mining
+similarity:  1.0 , find company: ssr mining
+SSRM
+input company: ssur hf
+None
+input company: st ban
+None
+input company: st bank
+None
+input company: stagwell
+similarity:  1.0 , find company: stagwell
+STGW
+input company: stand up to cancer
+None
+input company: starboard value lp
+None
+input company: stealth biotherapeutics
+None
+input company: steel dynamics
+similarity:  1.0 , find company: steel dynamics
+STLD
+input company: stericycle
+similarity:  1.0 , find company: stericycle
+SRCL
+input company: stone
+None
+input company: stone harbor emerging markets total ome fund and stone harbor emerging markets ome fund
+None
+input company: sundial growers
+similarity:  1.0 , find company: sundial growers
+SNDL
+input company: sunpower oration
+similarity:  1.0 , find company: sunpower oration
+SPWRV
+input company: supercom
+similarity:  1.0 , find company: supercom
+SPCB
+input company: supernova partners acquisitionmpany ii
+similarity:  1.0 , find company: supernova partners acquisitionmpany ii
+SNII
+input company: surgery partners
+similarity:  1.0 , find company: surgery partners
+SGRY
+input company: susman godfrey l l p foley bezek behle curtis llp
+None
+input company: sustainable development acquisition i
+similarity:  0.8 , find company: sustainable development acquisition i oration
+SDAC
+input company: sutro biopharma
+similarity:  1.0 , find company: sutro biopharma
+STRO
+input company: svb financial group
+similarity:  1.0 , find company: svb financial group
+SIVB
+input company: svf investment 3
+similarity:  0.75 , find company: svf investment oration 3
+SVFC
+input company: sw seedmpany
+None
+input company: swedish orphan biovitrum ab
+None
+input company: swisslog logistics
+None
+input company: swk holdings oration
+similarity:  1.0 , find company: swk holdings oration
+SWKH
+input company: swvl holdings
+similarity:  0.6666666666666666 , find company: swvl holdings oration
+SWVL
+input company: swvl
+None
+input company: symbiont
+None
+input company: symphony summitai
+None
+input company: synaptogenix
+similarity:  1.0 , find company: synaptogenix
+SNPX
+input company: systimmune
+None
+input company: t rowe price
+similarity:  1.0 , find company: t rowe price
+TROW
+input company: tab32
+None
+input company: tabula rasa healthcare
+similarity:  1.0 , find company: tabula rasa healthcare
+TRHC
+input company: tantech holdings
+similarity:  1.0 , find company: tantech holdings
+TANH
+input company: tarena international
+None
+input company: tat technologies
+similarity:  1.0 , find company: tat technologies
+TATT
+input company: tatammunications
+None
+input company: taxact
+None
+input company: tc biopharm
+None
+input company: td holdings
+similarity:  1.0 , find company: td holdings
+GLG
+input company: tdh holdings
+similarity:  1.0 , find company: tdh holdings
+PETZ
+input company: teleste oration
+None
+input company: terawulf
+similarity:  1.0 , find company: terawulf
+WULF
+input company: terranova oration
+None
+input company: tetra bio pharma
+None
+input company: texas instruments
+similarity:  0.6666666666666666 , find company: texas instruments orporated
+TXN
+input company: th international limited
+similarity:  0.6666666666666666 , find company: autochina international limited
+AUTC
+input company: the aes oration
+None
+input company: the andersons
+None
+input company: the bank of preton
+similarity:  0.75 , find company: bank of preton
+BPRN
+input company: the brooklyn tower jds development life time holdings nyse lth
+None
+input company: the childrens place
+similarity:  0.6666666666666666 , find company: childrens place
+PLCE
+input company: thencerned directors of frbk
+None
+input company: the d e shaw group
+None
+input company: the e w scrippsmpany
+None
+input company: the gatoradempany
+None
+input company: the goodyear tire rubbermpany
+None
+input company: the klein law firm
+None
+input company: the kroger
+None
+input company: the law offices of vent wong
+None
+input company: the leukemia lymphoma society lls royalty pharma
+None
+input company: the shyft group
+None
+input company: the stellar development foundation
+None
+input company: the valensmpany
+None
+input company: the very good foodmpany
+similarity:  0.75 , find company: very good foodmpany
+VGFC
+input company: the vitamin shoppe
+similarity:  0.6666666666666666 , find company: vitamin shoppe
+VSI
+input company: the washington trustmpany
+None
+input company: the wendysmpany
+None
+input company: theratechnologies
+similarity:  1.0 , find company: theratechnologies
+THTX
+input company: theravance biopharma
+similarity:  1.0 , find company: theravance biopharma
+TBPH
+input company: thermogenesis holdings
+similarity:  1.0 , find company: thermogenesis holdings
+THMO
+input company: theseus pharmaceuticals
+similarity:  1.0 , find company: theseus pharmaceuticals
+THRX
+input company: thetaray
+None
+input company: thirdast bancshares
+similarity:  1.0 , find company: thirdast bancshares
+TCBX
+input company: thornburg investment management
+similarity:  0.6666666666666666 , find company: pzena investment management
+PZN
+input company: thorne healthtech
+similarity:  1.0 , find company: thorne healthtech
+THRN
+input company: thredup
+similarity:  1.0 , find company: thredup
+TDUP
+input company: tian ruixiang holdings
+similarity:  1.0 , find company: tian ruixiang holdings
+TIRX
+input company: tifin
+None
+input company: titan pharmaceuticals
+similarity:  1.0 , find company: titan pharmaceuticals
+TTNP
+input company: tomorrow io
+None
+input company: torquest partners
+None
+input company: toyota motor north america
+None
+input company: tractor beverage
+None
+input company: travelzoo
+similarity:  1.0 , find company: travelzoo
+TZOO
+input company: trevi therapeutics
+similarity:  1.0 , find company: trevi therapeutics
+TRVI
+input company: tricorbraun
+None
+input company: triller
+None
+input company: trinet
+similarity:  1.0 , find company: trinet
+TNET
+input company: trip com group
+None
+input company: tripadvisor
+similarity:  1.0 , find company: tripadvisor
+TRIP
+input company: truecar com
+None
+input company: ttec holdings
+similarity:  1.0 , find company: ttec holdings
+TTEC
+input company: tuanche limited
+None
+input company: tuatara capital acquisition oration
+similarity:  1.0 , find company: tuatara capital acquisition oration
+TCAC
+input company: tucows
+similarity:  1.0 , find company: tucows
+TCX
+input company: tusimple holdings
+None
+input company: tutorme
+None
+input company: tyra biosciences
+similarity:  1.0 , find company: tyra biosciences
+TYRA
+input company: u s gold
+None
+input company: u s well services
+None
+input company: ucb
+None
+input company: ucommune international
+similarity:  1.0 , find company: ucommune international
+UK
+input company: ucommune international
+similarity:  1.0 , find company: ucommune international
+UK
+input company: ugreen limited
+None
+input company: ultimaker
+None
+input company: umpqua bank
+None
+input company: umpqua holdings oration
+similarity:  1.0 , find company: umpqua holdings oration
+UMPQ
+input company: unicycive therapeutics
+similarity:  1.0 , find company: unicycive therapeutics
+UNCY
+input company: united airlines
+similarity:  0.6666666666666666 , find company: united airlines holdings
+UAL
+input company: universal air travel plan uatp
+None
+input company: universal logistics holdings
+similarity:  1.0 , find company: universal logistics holdings
+ULH
+input company: universal technical institute
+similarity:  1.0 , find company: universal technical institute
+UTI
+input company: upgrade
+None
+input company: uranium royalty
+similarity:  0.6666666666666666 , find company: uranium royalty oration
+UROY
+input company: urban one
+similarity:  1.0 , find company: urban one
+UONE
+input company: usa news group
+None
+input company: uscc services llc
+None
+input company: valkyrie investments
+None
+input company: valuepenguin com
+None
+input company: vanda pharmaceuticals
+similarity:  1.0 , find company: vanda pharmaceuticals
+VNDA
+input company: vcv digital technology
+None
+input company: veeva systems
+similarity:  1.0 , find company: veeva systems
+VEEV
+input company: vejii holdings
+None
+input company: veon
+None
+input company: veon
+None
+input company: veoneer
+similarity:  1.0 , find company: veoneer
+VNE
+input company: verifyme
+similarity:  1.0 , find company: verifyme
+VRME
+input company: veristor systems
+None
+input company: versabank
+similarity:  1.0 , find company: versabank
+VBNK
+input company: viacomcbs
+similarity:  1.0 , find company: viacomcbs
+VIAC
+input company: viasat
+similarity:  1.0 , find company: viasat
+VSAT
+input company: viavi financials
+None
+input company: viavi solutions
+similarity:  1.0 , find company: viavi solutions
+VIAV
+input company: viewray
+similarity:  1.0 , find company: viewray
+VRAY
+input company: viking therapeutics
+similarity:  1.0 , find company: viking therapeutics
+VKTX
+input company: village farms international
+similarity:  1.0 , find company: village farms international
+VFF
+input company: vo ventures
+similarity:  1.0 , find company: vo ventures
+BBIG
+input company: vintage wine estates
+similarity:  1.0 , find company: vintage wine estates
+VWE
+input company: viracta therapeutics
+similarity:  1.0 , find company: viracta therapeutics
+VIRX
+input company: virginia national bankshares
+similarity:  0.75 , find company: virginia national bankshares oration
+VABK
+input company: virtus allianzgi artificial intelligence technology opportunities fund
+similarity:  0.75 , find company: virtus allianzgi artificial intelligence and technology opp fund
+AIO
+input company: virtus allianzginvertible ome fund
+None
+input company: virtus allianzginvertible ome fund ii
+similarity:  0.6 , find company: pimco muni ome fund ii
+PML
+input company: virtus allianzginvertible ome fund virtus allianzginvertible ome fund ii virtus allianzginvertible ome 2024 target term fund
+None
+input company: virtus allianzgi diversified ome nvertible fund
+None
+input company: virtus global multi sector ome fund
+similarity:  1.0 , find company: virtus global multi sector ome fund
+VGI
+input company: virtus investment partners
+similarity:  1.0 , find company: virtus investment partners
+VRTSV
+input company: virtus total return fund
+similarity:  1.0 , find company: virtus total return fund
+DCA
+input company: viva biotech
+None
+input company: vivian health
+None
+input company: volitionrx limited
+None
+input company: voxx international oration
+similarity:  1.0 , find company: voxx international oration
+VOXX
+input company: vtv therapeutics
+None
+input company: vuzix oration
+similarity:  1.0 , find company: vuzix oration
+VUZI
+input company: vyriad
+None
+input company: walk ons sports bistreaux
+None
+input company: walkme
+similarity:  1.0 , find company: walkme
+WKME
+input company: wallachbeth capital llc
+similarity:  0.6666666666666666 , find company: oaktree capital llc
+OAK
+input company: waterdrop
+similarity:  1.0 , find company: waterdrop
+WDH
+input company: wave
+None
+input company: wd 40mpany
+similarity:  1.0 , find company: wd 40mpany
+WDFC
+input company: weibo oration
+None
+input company: weiss law
+None
+input company: wesbanco bank
+None
+input company: wesbanco
+similarity:  1.0 , find company: wesbanco
+WSBC
+input company: whatfix
+None
+input company: white mountains insurance
+similarity:  0.6666666666666666 , find company: white moutains insurance
+WTM
+input company: whitehorse finance
+similarity:  1.0 , find company: whitehorse finance
+WHFBZ
+input company: willamette valley vineyards
+similarity:  1.0 , find company: willamette valley vineyards
+WVVI
+input company: wimi hologram cloud
+None
+input company: wingstop
+similarity:  1.0 , find company: wingstop
+WING
+input company: wingstop restaurants
+None
+input company: winpak
+None
+input company: wix com
+None
+input company: wolf haldenstein adler freeman herz llp
+similarity:  1.0 , find company: wolf haldenstein adler freeman herz llp
+LCID
+input company: workday
+similarity:  1.0 , find company: workday
+WDAY
+input company: workday
+similarity:  1.0 , find company: workday
+WDAY
+input company: wowwee
+None
+input company: wurl
+None
+input company: ww international
+similarity:  1.0 , find company: ww international
+WW
+input company: wynn las vegas
+similarity:  1.0 , find company: wynn las vegas
+WYNN
+input company: wynn resorts
+similarity:  1.0 , find company: wynn resorts
+WYNN
+input company: wynnbet
+similarity:  1.0 , find company: wynnbet
+WYNN
+input company: xcentric mold engineering
+None
+input company: xyzzy
+None
+input company: yunji
+similarity:  1.0 , find company: yunji
+YJ
+input company: zash global media and entertainment
+None
+input company: zenvia
+similarity:  1.0 , find company: zenvia
+ZENV
+input company: zenvia
+similarity:  1.0 , find company: zenvia
+ZENV
+input company: zillow
+similarity:  1.0 , find company: zillow
+Z
+input company: zillow group
+None
+input company: zillow
+similarity:  1.0 , find company: zillow
+Z
+input company: zimmer biomet holdings
+similarity:  1.0 , find company: zimmer biomet holdings
+ZBH
+input company: zk international
+similarity:  1.0 , find company: zk international
+ZKIN
+input company: zovio
+similarity:  1.0 , find company: zovio
+ZVO
+input company: zulily
+similarity:  1.0 , find company: zulily
+ZU
+input company: zynex
+similarity:  1.0 , find company: zynex
+ZYXI
+
+Process finished with exit code 0

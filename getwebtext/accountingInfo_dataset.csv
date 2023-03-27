@@ -1,0 +1,187 @@
+local_topics_sim:analytic,local_topics_sim:innovation,local_topics_sim:technology,global_topics_sim:analytic,global_topics_sim:innovation,global_topics_sim:technology,company,link,tic,edit_sim:analytic,edit_sim:innovation,edit_sim:technology,haskey:analytic,haskey:innovation,haskey:technology,sic,ni
+0.5,0.5,1.0,-2.661853313446045,-1.70430588722229,0.9999998211860657,51job inc.,https://www.prnewswire.com/news/51job%2C-inc./,,0.375,0.5454545454545454,0.3,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,1.0,-2.22713041305542,0.9999998211860657,0.9999998211860657,ademi llp,https://www.prnewswire.com/news/ademi-llp/,,0.625,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-1.9321925640106201,0.9999998211860657,0.9999998211860657,ads__tec energy,https://www.prnewswire.com/news/ads__tec-energy/,ADSE,0.375,0.45454545454545453,1.0,0.0,0.0,1.0,,
+0.5,0.9999999403953552,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,aethlon medical inc.,https://www.prnewswire.com/news/aethlon-medical%2C-inc./,AEMD,0.75,0.7,0.6,0.0,0.0,0.0,3841.0,-7.887
+0.5,0.5,1.0,-2.2540571689605713,-1.3257968425750732,0.9999998211860657,agoda,https://www.prnewswire.com/news/agoda/,,0.46153846153846156,0.5,0.4,0.0,0.0,0.0,3577.0,-8.69
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,akamai technologies,https://www.prnewswire.com/news/akamai-technologies/,AKAM,0.375,0.45454545454545453,0.75,0.0,0.0,0.0,7370.0,651.642
+0.5,0.5,0.5,-2.22713041305542,-1.8503882884979248,-2.2849063873291016,akumin inc.,https://www.prnewswire.com/news/akumin-inc./,AKU,0.375,0.6153846153846154,0.3,0.0,0.0,0.0,8071.0,-43.291
+0.5,1.0,1.0,-1.9321925640106201,0.9999998211860657,0.9999998211860657,alexandria real estate equities inc.,https://www.prnewswire.com/news/alexandria-real-estate-equities%2C-inc./,ARE,0.5,1.0,1.0,0.0,1.0,1.0,6798.0,571.247
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,altair,https://www.prnewswire.com/news/altair/,ALTR,0.8888888888888888,0.6,1.0,1.0,0.0,1.0,7372.0,-8.794
+0.5,1.0,0.9999999403953552,-2.160017490386963,0.9999998211860657,0.9999998211860657,amazfit,https://www.prnewswire.com/news/amazfit/,,0.375,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+0.9999999403953552,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,american electric power,https://www.prnewswire.com/news/american-electric-power/,AEP,0.75,0.8,1.0,0.0,0.0,1.0,4911.0,2488.1
+0.9999999403953552,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,ametek inc.,https://www.prnewswire.com/news/ametek%2C-inc./,AME,0.8,0.7272727272727273,1.0,1.0,0.0,1.0,3823.0,990.053
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,amgen,https://www.prnewswire.com/news/amgen/,AMGN,0.75,1.0,1.0,0.0,1.0,1.0,2836.0,5893.0
+0.5,1.0,1.0,-1.8906383514404297,0.9999998211860657,0.9999998211860657,anterix inc.,https://www.prnewswire.com/news/anterix-inc./,ATEX,0.625,0.5,1.0,0.0,0.0,1.0,4899.0,-54.434
+0.5,0.5,0.5,-2.1643717288970947,-1.3257968425750732,-1.3424129486083984,athleta,https://www.prnewswire.com/news/athleta/,,0.375,0.6,0.3,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,1.0,-2.341311454772949,0.9999998211860657,0.9999998211860657,avanos medical inc.,https://www.prnewswire.com/news/avanos-medical%2C-inc./,AVNS,0.4,1.0,0.3333333333333333,0.0,1.0,0.0,3842.0,5.2
+0.5,0.5,0.5,-2.235215425491333,-1.7013132572174072,-2.0668234825134277,avista capital partners,https://www.prnewswire.com/news/avista-capital-partners/,CIIG,0.375,0.5454545454545454,0.3,0.0,0.0,0.0,,
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,bd becton dickinson and company,https://www.prnewswire.com/news/bd-%28becton%2C-dickinson-and-company%29/,BDX,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,3841.0,2092.0
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,bed bath  beyond,https://www.prnewswire.com/news/bed-bath-%26-beyond/,BBBY,0.375,0.6363636363636364,0.4,0.0,0.0,0.0,5700.0,-559.623
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,benson hill,https://www.prnewswire.com/news/benson-hill/,BHIL,0.625,1.0,1.0,0.0,1.0,1.0,100.0,-126.247
+0.5,0.5,1.0,-2.235215425491333,-1.531522512435913,0.9999998211860657,berger montague,https://www.prnewswire.com/news/berger-montague/,BGRH,0.5,0.6,1.0,0.0,0.0,1.0,3444.0,0.938
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,bgc partners inc.,https://www.prnewswire.com/news/bgc-partners%2C-inc./,BGCP,0.625,0.7272727272727273,1.0,0.0,0.0,1.0,6211.0,124.007
+0.5,0.9999999403953552,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,biondvax pharmaceuticals ltd.,https://www.prnewswire.com/news/biondvax-pharmaceuticals-ltd./,AMAG,0.625,0.8,1.0,0.0,0.0,1.0,2834.0,-467.661
+0.5,0.9999999403953552,0.9999999403953552,-2.235215425491333,0.9999998211860657,0.9999998211860657,brainstorm cell therapeutics inc.,https://www.prnewswire.com/news/brainstorm-cell-therapeutics-inc./,BCLI,0.75,0.6666666666666666,1.0,0.0,0.0,1.0,2836.0,-24.457
+0.5,1.0,0.9999999403953552,-2.1643717288970947,0.9999998211860657,0.9999998211860657,caesars entertainment inc.,https://www.prnewswire.com/news/caesars-entertainment%2C-inc./,CZR,0.625,0.8,0.3,0.0,0.0,0.0,7990.0,-1019.0
+0.5,1.0,1.0,-2.147453546524048,0.9999998211860657,0.9999998211860657,canaan inc.,https://www.prnewswire.com/news/canaan-inc./,,0.375,0.5,0.4,0.0,0.0,0.0,3577.0,-8.69
+0.5,0.5,1.0,-2.235215425491333,-1.3257968425750732,0.9999998211860657,captain morgan,https://www.prnewswire.com/news/captain-morgan/,KMI,0.375,0.6,0.3,0.0,0.0,0.0,4923.0,1784.0
+0.9999998807907104,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,caterpillar inc.,https://www.prnewswire.com/news/caterpillar-inc./,CAT,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,3531.0,6489.0
+0.5,0.5,0.5,-2.235215425491333,-1.70430588722229,-1.3424129486083984,chemomab therapeutics ltd,https://www.prnewswire.com/news/chemomab-therapeutics-ltd/,ANTX,0.36363636363636365,0.45454545454545453,0.2,0.0,0.0,0.0,,
+0.5,0.5,0.9999999403953552,-2.22713041305542,-1.70430588722229,0.9999998211860657,china natural resources inc.,https://www.prnewswire.com/news/china-natural-resources%2C-inc./,CHNR,0.625,0.5454545454545454,1.0,0.0,0.0,1.0,1000.0,3.892
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,chipotle mexican grill,https://www.prnewswire.com/news/chipotle-mexican-grill/,CMG,0.375,0.7,0.4,0.0,0.0,0.0,5812.0,652.984
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,chipotle mexican grill inc.,https://www.prnewswire.com/news/chipotle-mexican-grill%2C-inc./,CMG,0.375,0.7,1.0,0.0,0.0,1.0,5812.0,652.984
+0.5,0.5,0.9999999403953552,-2.362431764602661,-1.531522512435913,0.9999998211860657,chunghwa telecom,https://www.prnewswire.com/news/chunghwa-telecom/,ALGX,0.2857142857142857,0.3,0.4,0.0,0.0,0.0,,
+0.5,0.5,0.5,-2.360797882080078,-1.3257968425750732,-1.3424129486083984,civista bancshares inc.,https://www.prnewswire.com/news/civista-bancshares%2C-inc./,CIVB,0.375,0.6,0.3,0.0,0.0,0.0,6020.0,40.546
+0.5,1.0,1.0,-2.8426461219787598,0.9999998211860657,0.9999998211860657,claimsfiler,https://www.prnewswire.com/news/claimsfiler/,,0.375,0.8,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-1.9321925640106201,0.9999998211860657,0.9999998211860657,clps,https://www.prnewswire.com/news/clps/,,0.375,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+1.0,0.5,1.0,1.0,-1.70430588722229,0.9999998211860657,cme group,https://www.prnewswire.com/news/cme-group/,CME,0.3,0.46153846153846156,0.2,0.0,0.0,0.0,6200.0,2636.4
+0.5,0.5,1.0,-2.341311454772949,-1.3257968425750732,0.9999998211860657,cnx resources corporation,https://www.prnewswire.com/news/cnx-resources-corporation/,CNX,0.375,0.7272727272727273,0.4,0.0,0.0,0.0,1311.0,-498.643
+1.0,1.0,0.9999999403953552,1.0,0.9999998211860657,0.9999998211860657,cognizant,https://www.prnewswire.com/news/cognizant/,,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-1.881460428237915,0.9999998211860657,0.9999998211860657,compass,https://www.prnewswire.com/news/compass/,COMP,0.36363636363636365,0.45454545454545453,1.0,0.0,0.0,1.0,6531.0,-494.1
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,consol energy inc.,https://www.prnewswire.com/news/consol-energy-inc./,CEIX,0.625,0.6,0.4,0.0,0.0,0.0,1220.0,34.11
+0.5,0.5,0.5,-2.235215425491333,-1.6683664321899414,-1.3424129486083984,construction partners inc.,https://www.prnewswire.com/news/construction-partners%2C-inc./,ROAD,0.375,0.5,1.0,0.0,0.0,1.0,1600.0,20.177
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,copart inc.,https://www.prnewswire.com/news/copart%2C-inc./,CPRT,0.375,0.6,0.4,0.0,0.0,0.0,5010.0,936.495
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,couchbase inc.,https://www.prnewswire.com/news/couchbase%2C-inc./,BASE,0.375,0.5,0.3076923076923077,0.0,0.0,0.0,7370.0,-58.229
+0.5,1.0,1.0,-2.22713041305542,0.9999998211860657,0.9999998211860657,cracker barrel old country store inc.,https://www.prnewswire.com/news/cracker-barrel-old-country-store%2C-inc./,CBRL,0.5,0.6,1.0,0.0,0.0,1.0,5812.0,254.513
+0.5,1.0,1.0,-1.881460428237915,0.9999998211860657,0.9999998211860657,crocs inc.,https://www.prnewswire.com/news/crocs%2C-inc./,CROX,0.3333333333333333,0.8,1.0,0.0,0.0,1.0,3021.0,725.694
+0.5,0.5,0.5,-2.8590996265411377,-1.8548741340637207,-1.3424129486083984,csn resources s.a.,https://www.prnewswire.com/news/csn-resources-s.a./,CRNS,0.375,0.5,0.3,0.0,0.0,0.0,4700.0,9.227
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,darden restaurants inc. general,https://www.prnewswire.com/news/darden-restaurants%2C-inc.%3A-general/,DRI,0.4166666666666667,0.6,0.4,0.0,0.0,0.0,5812.0,629.3
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,dariohealth corp.,https://www.prnewswire.com/news/dariohealth-corp./,,0.5,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-1.9321925640106201,0.9999998211860657,0.9999998211860657,darling ingredients inc.,https://www.prnewswire.com/news/darling-ingredients-inc./,DAR,0.5,1.0,1.0,0.0,1.0,1.0,2070.0,650.914
+0.5,1.0,0.5,-2.341311454772949,0.9999998211860657,-1.3424129486083984,diamond offshore drilling inc.,https://www.prnewswire.com/news/diamond-offshore-drilling%2C-inc./,DO,0.375,0.45454545454545453,0.4,0.0,0.0,0.0,,
+0.5,1.0,1.0,-2.360797882080078,0.9999998211860657,0.9999998211860657,digital brands group inc.,https://www.prnewswire.com/news/digital-brands-group%2C-inc./,DBGI,0.375,0.5,0.3,0.0,0.0,0.0,5961.0,-32.358
+0.5,0.5,0.5,-2.720355749130249,-1.7973287105560303,-1.3424129486083984,dnp select income fund inc.,https://www.prnewswire.com/news/dnp-select-income-fund-inc./,DNP,0.375,0.7272727272727273,0.4,0.0,0.0,0.0,,
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,docusign inc.,https://www.prnewswire.com/news/docusign%2C-inc./,DOCU,0.75,1.0,1.0,0.0,1.0,1.0,7370.0,-69.976
+0.5,1.0,1.0,-1.881460428237915,0.9999998211860657,0.9999998211860657,dupont,https://www.prnewswire.com/news/dupont/,DPMI,0.625,1.0,1.0,0.0,1.0,1.0,3559.0,-72.949
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,dynavax technologies,https://www.prnewswire.com/news/dynavax-technologies/,DVAX,0.4,0.7,0.6363636363636364,0.0,0.0,0.0,2836.0,76.713
+0.5,0.5,0.5,-2.341311454772949,-1.3257968425750732,-2.0668234825134277,earthstone energy inc.,https://www.prnewswire.com/news/earthstone-energy%2C-inc./,ESTE,0.2727272727272727,0.4,0.4,0.0,0.0,0.0,1311.0,35.484
+0.5,1.0,1.0,-2.22713041305542,0.9999998211860657,0.9999998211860657,eastside distilling inc.,https://www.prnewswire.com/news/eastside-distilling%2C-inc./,EAST,0.75,0.8,1.0,0.0,0.0,1.0,2085.0,-2.196
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,elekta,https://www.prnewswire.com/news/elekta/,,0.4166666666666667,0.5833333333333334,0.6,0.0,0.0,0.0,3577.0,-8.69
+0.5,0.5,1.0,-2.235215425491333,-1.3257968425750732,0.9999998211860657,embraer s.a. eve uam llc,https://www.prnewswire.com/news/embraer-s.a.%3B-eve-uam%2C-llc/,,0.3333333333333333,0.46153846153846156,0.3,0.0,0.0,0.0,3577.0,-8.69
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,equinix inc.,https://www.prnewswire.com/news/equinix%2C-inc./,EQIX,0.625,1.0,1.0,0.0,1.0,1.0,6798.0,500.191
+0.5,0.5,1.0,-2.1193416118621826,-1.4250335693359375,0.9999998211860657,erie indemnity company,https://www.prnewswire.com/news/erie-indemnity-company/,ERIE,0.3,0.7272727272727273,0.3,0.0,0.0,0.0,6411.0,297.86
+0.5,1.0,1.0,-1.881460428237915,0.9999998211860657,0.9999998211860657,esquire financial holdings inc.,https://www.prnewswire.com/news/esquire-financial-holdings%2C-inc./,ESQ,0.375,0.5,0.3333333333333333,0.0,0.0,0.0,6020.0,17.925
+0.5,0.5,1.0,-2.235215425491333,-1.3257968425750732,0.9999998211860657,essa pharma inc,https://www.prnewswire.com/news/essa-pharma-inc/,EPIX,0.4166666666666667,0.6,0.6,0.0,0.0,0.0,2836.0,-36.805
+0.5,1.0,1.0,-2.51027250289917,0.9999998211860657,0.9999998211860657,everest medicines,https://www.prnewswire.com/news/everest-medicines/,FIXX,0.4,0.4666666666666667,0.4,0.0,0.0,0.0,2836.0,-95.764
+0.5,1.0,0.9999998807907104,-1.8906383514404297,0.9999998211860657,0.9999998211860657,fathom events,https://www.prnewswire.com/news/fathom-events/,FTHM,0.4444444444444444,0.6363636363636364,0.5,0.0,0.0,0.0,6531.0,-12.491
+0.5,0.5,0.5,-2.6590280532836914,-1.4250335693359375,-1.6300201416015625,first community bank,https://www.prnewswire.com/news/first-community-bank/,AMBKW,0.3,0.4,0.3,0.0,0.0,0.0,,
+0.9999999403953552,0.5,1.0,1.0,-1.3257968425750732,0.9999998211860657,first community corporation,https://www.prnewswire.com/news/first-community-corporation/,FCCO,0.375,0.5454545454545454,0.3,0.0,0.0,0.0,6020.0,15.465
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,fiscalnote,https://www.prnewswire.com/news/fiscalnote/,,0.625,0.5,0.75,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,1.0,-1.881460428237915,0.9999998211860657,0.9999998211860657,flagship pioneering,https://www.prnewswire.com/news/flagship-pioneering/,,0.4444444444444444,0.9090909090909091,1.0,0.0,1.0,1.0,3577.0,-8.69
+1.0,1.0,0.9999999403953552,1.0,0.9999998211860657,0.9999998211860657,fleishmanhillard inc.,https://www.prnewswire.com/news/fleishmanhillard-inc./,,0.4,0.8,0.4,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,future fintech group inc.,https://www.prnewswire.com/news/future-fintech-group-inc./,FTFT,0.5,0.7,1.0,0.0,0.0,1.0,7370.0,-13.595
+0.5,1.0,0.5,-2.360797882080078,0.9999998211860657,-1.3424129486083984,g. willi__food international ltd.,https://www.prnewswire.com/news/g.-willi__food-international-ltd./,WILC,0.375,0.7272727272727273,0.3,0.0,0.0,0.0,5140.0,14.501
+0.5,0.9999998807907104,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,galmed pharmaceuticals ltd.,https://www.prnewswire.com/news/galmed-pharmaceuticals-ltd./,GLMD,0.75,0.5454545454545454,0.6923076923076923,0.0,0.0,0.0,2836.0,-32.467
+0.5,1.0,1.0,-2.0194592475891113,0.9999998211860657,0.9999998211860657,genprex inc.,https://www.prnewswire.com/news/genprex%2C-inc./,GNPX,0.375,0.4166666666666667,0.3,0.0,0.0,0.0,2836.0,-19.596
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,glancy prongay  murray llp,https://www.prnewswire.com/news/glancy-prongay-%26-murray-llp/,,0.375,0.8,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-2.147453546524048,0.9999998211860657,0.9999998211860657,glory star new media group holdings limited,https://www.prnewswire.com/news/glory-star-new-media-group-holdings-limited/,GSMG,0.375,0.5,1.0,0.0,0.0,1.0,7822.0,35.287
+0.5,0.9999999403953552,0.9999999403953552,-2.22713041305542,0.9999998211860657,0.9999998211860657,gogo inc.,https://www.prnewswire.com/news/gogo-inc./,GOGO,0.625,0.6,1.0,0.0,0.0,1.0,4899.0,152.735
+0.5,1.0,1.0,-1.881460428237915,0.9999998211860657,0.9999998211860657,gopro inc.,https://www.prnewswire.com/news/gopro%2C-inc./,GPRO,0.4444444444444444,0.9090909090909091,1.0,0.0,1.0,1.0,3861.0,371.171
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,gt biopharma inc.,https://www.prnewswire.com/news/gt-biopharma%2C-inc./,GTBP,0.375,1.0,0.75,0.0,1.0,0.0,2834.0,-58.013
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,halozyme therapeutics inc.,https://www.prnewswire.com/news/halozyme-therapeutics%2C-inc./,ANTX,0.75,0.7,1.0,0.0,0.0,1.0,,
+0.5,0.5,0.5,-2.4160990715026855,-1.531522512435913,-1.3424129486083984,hawaiian holdings inc.,https://www.prnewswire.com/news/hawaiian-holdings%2C-inc./,HA,0.3,0.5,0.3,0.0,0.0,0.0,4512.0,-144.773
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,heidrick  struggles international inc.,https://www.prnewswire.com/news/heidrick-%26-struggles-international%2C-inc./,HSII,1.0,0.5,0.4,1.0,0.0,0.0,7361.0,72.572
+0.5,0.5,1.0,-2.160017490386963,-1.3257968425750732,0.9999998211860657,hollysys automation technologies ltd,https://www.prnewswire.com/news/hollysys-automation-technologies-ltd/,HOLI,0.4,0.6,0.75,0.0,0.0,0.0,3823.0,89.709
+0.5,0.5,1.0,-2.242123603820801,-1.5730834007263184,0.9999998211860657,homepoint,https://www.prnewswire.com/news/homepoint/,,0.3333333333333333,0.6,1.0,0.0,0.0,1.0,3577.0,-8.69
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,honeywell,https://www.prnewswire.com/news/honeywell/,HON,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,9997.0,5542.0
+0.9999999403953552,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,houghton mifflin harcourt,https://www.prnewswire.com/news/houghton-mifflin-harcourt/,HMHC,0.8888888888888888,0.8,1.0,1.0,0.0,1.0,2731.0,213.578
+0.5,1.0,0.9999998807907104,-2.013092041015625,0.9999998211860657,0.9999998211860657,huntsman corporation,https://www.prnewswire.com/news/huntsman-corporation/,HUN,0.4444444444444444,0.7272727272727273,1.0,0.0,0.0,1.0,2860.0,1045.0
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,hut 8 mining corp,https://www.prnewswire.com/news/hut-8-mining-corp/,HUT,0.4,0.5,1.0,0.0,0.0,1.0,7374.0,-72.71
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,iac,https://www.prnewswire.com/news/iac/,IAC,0.375,0.6,1.0,0.0,0.0,1.0,7370.0,597.615
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,ideanomics,https://www.prnewswire.com/news/ideanomics/,SSC,0.625,1.0,1.0,0.0,1.0,1.0,,
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,illumina inc.,https://www.prnewswire.com/news/illumina%2C-inc./,ILMN,0.4444444444444444,0.8,0.4,0.0,0.0,0.0,3826.0,762.0
+0.5,0.5,0.5,-2.360797882080078,-1.3257968425750732,-1.3424129486083984,inhibrx inc.,https://www.prnewswire.com/news/inhibrx%2C-inc./,INBX,0.4,0.5,0.23076923076923078,0.0,0.0,0.0,2836.0,-81.768
+0.5,0.5,0.5,-2.661853313446045,-1.3257968425750732,-2.3019962310791016,instacart,https://www.prnewswire.com/news/instacart/,,0.2727272727272727,0.4,0.4,0.0,0.0,0.0,3577.0,-8.69
+0.5,0.5,0.5,-2.013092041015625,-1.70430588722229,-1.3424129486083984,international brotherhood of teamsters,https://www.prnewswire.com/news/international-brotherhood-of-teamsters/,,0.375,0.5384615384615384,0.3,0.0,0.0,0.0,3577.0,-8.69
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,iqiyi,https://www.prnewswire.com/news/iqiyi/,,0.4444444444444444,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,jack henry  associates inc.,https://www.prnewswire.com/news/jack-henry-%26-associates%2C-inc./,JKHY,0.625,1.0,1.0,0.0,1.0,1.0,7373.0,311.469
+0.9999999403953552,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,jazz pharmaceuticals plc,https://www.prnewswire.com/news/jazz-pharmaceuticals-plc/,JAZZ,0.75,0.8,1.0,0.0,0.0,1.0,2834.0,-329.668
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,kessler topaz meltzer  check llp,https://www.prnewswire.com/news/kessler-topaz-meltzer-%26-check%2C-llp/,,0.375,0.9090909090909091,1.0,0.0,1.0,1.0,3577.0,-8.69
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,lantern pharma,https://www.prnewswire.com/news/lantern-pharma/,LTRN,0.5,0.5454545454545454,0.6,0.0,0.0,0.0,2836.0,-12.363
+0.5,0.5,1.0,-2.160017490386963,-1.3257968425750732,0.9999998211860657,law offices of howard g. smith,https://www.prnewswire.com/news/law-offices-of-howard-g.-smith/,,0.5,0.6,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,0.5,0.5,-2.1643717288970947,-1.3257968425750732,-1.3424129486083984,lendingtree.com,https://www.prnewswire.com/news/lendingtree.com/,ACOM,0.375,0.7,0.4,0.0,0.0,0.0,7370.0,62.895
+0.5,0.9999999403953552,0.9999999403953552,-2.235215425491333,0.9999998211860657,0.9999998211860657,liqtech international inc.,https://www.prnewswire.com/news/liqtech-international%2C-inc./,LIQT,0.625,0.5384615384615384,1.0,0.0,0.0,1.0,3590.0,-11.127
+0.5,0.5,0.5,-2.235215425491333,-1.3257968425750732,-1.3424129486083984,lubys inc.,https://www.prnewswire.com/news/luby%27s%2C-inc./,LUB,0.375,0.6,0.4,0.0,0.0,0.0,5812.0,-29.45
+0.5,0.5,0.5,-2.160017490386963,-1.9330048561096191,-2.230236768722534,lumen black lotus labs,https://www.prnewswire.com/news/lumen-black-lotus-labs/,,0.5,0.4,0.4,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,luokung technology corp.,https://www.prnewswire.com/news/luokung-technology-corp./,ADTK,0.375,0.7272727272727273,1.0,0.0,0.0,1.0,,
+0.5,0.5,0.5,-3.07468843460083,-1.4250335693359375,-2.662853479385376,luxco,https://www.prnewswire.com/news/luxco/,,0.3333333333333333,0.4,0.3,0.0,0.0,0.0,3577.0,-8.69
+0.5,0.5,0.5,-2.4267139434814453,-1.710510015487671,-2.0668234825134277,lyra therapeutics inc.,https://www.prnewswire.com/news/lyra-therapeutics%2C-inc./,LYRA,0.3333333333333333,0.7,0.3,0.0,0.0,0.0,3841.0,-43.513
+0.5,1.0,1.0,-2.147453546524048,0.9999998211860657,0.9999998211860657,mainstreet bancshares inc.,https://www.prnewswire.com/news/mainstreet-bancshares%2C-inc./,MNSB,0.375,0.6,0.3,0.0,0.0,0.0,6020.0,22.171
+0.5,1.0,0.5,-2.22713041305542,0.9999998211860657,-1.3424129486083984,marine products corporation,https://www.prnewswire.com/news/marine-products-corporation/,MPX,0.375,0.6,0.4,0.0,0.0,0.0,3730.0,29.026
+0.5,1.0,1.0,-2.013092041015625,0.9999998211860657,0.9999998211860657,maxeon solar technologies ltd.,https://www.prnewswire.com/news/maxeon-solar-technologies%2C-ltd./,MAXN,0.5,0.7272727272727273,1.0,0.0,0.0,1.0,3674.0,-254.52
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,meridian bioscience inc.,https://www.prnewswire.com/news/meridian-bioscience%2C-inc./,VIVO,0.4166666666666667,0.8,0.3,0.0,0.0,0.0,2835.0,71.407
+1.0,1.0,0.9999999403953552,1.0,0.9999998211860657,0.9999998211860657,microsoft corp.,https://www.prnewswire.com/news/microsoft-corp./,,0.625,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+0.5,1.0,0.5,-2.4267139434814453,0.9999998211860657,-1.3424129486083984,milestone pharmaceuticals inc.,https://www.prnewswire.com/news/milestone-pharmaceuticals%2C-inc./,MIST,0.75,0.5,0.4,0.0,0.0,0.0,2836.0,-42.853
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,mirati therapeutics inc.,https://www.prnewswire.com/news/mirati-therapeutics%2C-inc./,MRTX,0.75,0.8,0.7692307692307693,0.0,0.0,1.0,2836.0,-581.784
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,mississippi power,https://www.prnewswire.com/news/mississippi-power/,BCON,0.4,0.6,0.4,0.0,0.0,0.0,,
+0.5,0.5,0.5,-2.235215425491333,-1.531522512435913,-1.3424129486083984,moneyrates.com,https://www.prnewswire.com/news/moneyrates.com/,ACOM,0.75,0.45454545454545453,0.4,0.0,0.0,0.0,7370.0,62.895
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,mongodb inc.,https://www.prnewswire.com/news/mongodb%2C-inc./,MDB,0.4,1.0,1.0,0.0,1.0,1.0,7370.0,-306.866
+0.5,0.5,1.0,-2.22713041305542,-1.7013132572174072,0.9999998211860657,moore kuehn pllc,https://www.prnewswire.com/news/moore-kuehn%2C-pllc/,,0.5,0.5454545454545454,0.75,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,movano,https://www.prnewswire.com/news/movano/,MOVE,0.4,1.0,1.0,0.0,1.0,1.0,3845.0,-21.773
+0.5,0.9999999403953552,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,nelnet inc.,https://www.prnewswire.com/news/nelnet%2C-inc./,NNI,0.3,0.5454545454545454,0.4,0.0,0.0,0.0,6141.0,393.286
+0.5,1.0,1.0,-1.8926515579223633,0.9999998211860657,0.9999998211860657,neptune wellness solutions inc.,https://www.prnewswire.com/news/neptune-wellness-solutions-inc./,NEPT,0.4166666666666667,1.0,0.4,0.0,1.0,0.0,2836.0,-167.147
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,netease cloud music,https://www.prnewswire.com/news/netease-cloud-music/,,0.3333333333333333,0.5,0.3,0.0,0.0,0.0,3577.0,-8.69
+0.5,1.0,0.9999999403953552,-2.1643717288970947,0.9999998211860657,0.9999998211860657,new oriental education and technology group inc.,https://www.prnewswire.com/news/new-oriental-education-and-technology-group-inc./,,0.375,0.5384615384615384,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-1.9321925640106201,0.9999998211860657,0.9999998211860657,nikola corporation,https://www.prnewswire.com/news/nikola-corporation/,NKLA,0.625,0.8,1.0,0.0,0.0,1.0,3711.0,-690.438
+0.5,0.5,1.0,-2.360797882080078,-1.70430588722229,0.9999998211860657,northwest pipe company,https://www.prnewswire.com/news/northwest-pipe-company/,NWPX,0.3076923076923077,0.46153846153846156,0.3,0.0,0.0,0.0,3317.0,11.523
+0.5,1.0,0.9999999403953552,-2.1643717288970947,0.9999998211860657,0.9999998211860657,nortonlifelock inc.,https://www.prnewswire.com/news/nortonlifelock-inc./,NLOK,0.375,0.5384615384615384,0.3,0.0,0.0,0.0,7372.0,836.0
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,novavax inc.,https://www.prnewswire.com/news/novavax%2C-inc./,NVAX,0.5,1.0,0.7692307692307693,0.0,1.0,1.0,2836.0,-1743.751
+0.5,0.5,0.5,-2.22713041305542,-1.3257968425750732,-1.3424129486083984,oasis petroleum inc.,https://www.prnewswire.com/news/oasis-petroleum-inc./,OAS,0.375,0.7272727272727273,0.4,0.0,0.0,0.0,1311.0,319.602
+0.5,0.5,0.5,-2.9470577239990234,-1.3257968425750732,-2.0668234825134277,ohio valley banc corp.,https://www.prnewswire.com/news/ohio-valley-banc-corp./,OVBC,0.2727272727272727,0.5,0.3,0.0,0.0,0.0,6020.0,11.732
+0.5,0.5,1.0,-2.6255722045898438,-1.7013132572174072,0.9999998211860657,omega therapeutics,https://www.prnewswire.com/news/omega-therapeutics/,OMGA,0.375,0.5454545454545454,0.21428571428571427,0.0,0.0,0.0,2836.0,-68.28
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,oppenheimer  co. inc.,https://www.prnewswire.com/news/oppenheimer-%26-co.-inc./,OPY,0.625,1.0,1.0,0.0,1.0,1.0,6211.0,158.964
+1.0000001192092896,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,oracle,https://www.prnewswire.com/news/oracle/,ORCL,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,7370.0,13746.0
+0.5,0.5,0.9999999403953552,-2.1643717288970947,-1.70430588722229,0.9999998211860657,pf industries inc.,https://www.prnewswire.com/news/p%26f-industries%2C-inc./,ABRI,0.3076923076923077,0.8,0.75,0.0,0.0,0.0,,
+0.5,0.5,1.0,-2.1643717288970947,-1.531522512435913,0.9999998211860657,prescience point capital management,https://www.prnewswire.com/news/prescience-point-capital-management/,HMPT,0.75,0.5454545454545454,0.4,0.0,0.0,0.0,6162.0,166.272
+0.9999999403953552,1.0,0.9999998807907104,1.0,0.9999998211860657,0.9999998211860657,purcell julie  lefkowitz llp,https://www.prnewswire.com/news/purcell-julie-%26-lefkowitz-llp/,,0.8888888888888888,0.9090909090909091,1.0,1.0,1.0,1.0,3577.0,-8.69
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,qualys inc.,https://www.prnewswire.com/news/qualys%2C-inc./,QLYS,0.75,1.0,1.0,0.0,1.0,1.0,7372.0,70.96
+0.9999999403953552,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,quicklogic corporation,https://www.prnewswire.com/news/quicklogic-corporation/,QUIK,0.8888888888888888,0.6,1.0,1.0,0.0,1.0,3674.0,-6.616
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,realnetworks inc.,https://www.prnewswire.com/news/realnetworks%2C-inc./,RNWK,0.5,1.0,1.0,0.0,1.0,1.0,7370.0,-21.981
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,recursion,https://www.prnewswire.com/news/recursion/,RXRX,0.4166666666666667,0.5,0.6,0.0,0.0,0.0,2836.0,-186.479
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,redhill biopharma ltd.,https://www.prnewswire.com/news/redhill-biopharma-ltd./,ABVC,0.75,0.6,0.7692307692307693,0.0,0.0,1.0,2836.0,-12.839
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,regeneron pharmaceuticals inc.,https://www.prnewswire.com/news/regeneron-pharmaceuticals%2C-inc./,REGN,0.75,1.0,1.0,0.0,1.0,1.0,2834.0,8075.3
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,ritchie bros. auctioneers,https://www.prnewswire.com/news/ritchie-bros.-auctioneers/,RBA,0.4,0.8,1.0,0.0,0.0,1.0,7389.0,151.868
+0.5,0.5,0.5,-2.590100049972534,-1.3257968425750732,-1.3424129486083984,rollins inc.,https://www.prnewswire.com/news/rollins-inc./,ROL,0.25,0.5384615384615384,0.3,0.0,0.0,0.0,7340.0,350.687
+0.9999998807907104,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,rosen law firm p.a.,https://www.prnewswire.com/news/rosen-law-firm%2C-p.a./,,0.8888888888888888,0.9090909090909091,1.0,1.0,1.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-2.4545135498046875,0.9999998211860657,0.9999998211860657,rowley law pllc,https://www.prnewswire.com/news/rowley-law-pllc/,,0.625,0.9090909090909091,1.0,0.0,1.0,1.0,3577.0,-8.69
+0.5,0.5,1.0,-2.387455701828003,-1.3257968425750732,0.9999998211860657,runway growth capital llc,https://www.prnewswire.com/news/runway-growth-capital-llc/,RWAY,0.4,0.3,0.75,0.0,0.0,0.0,6797.0,45.619
+0.5,0.5,0.5,-2.160017490386963,-1.531522512435913,-1.3424129486083984,sandstorm gold ltd.,https://www.prnewswire.com/news/sandstorm-gold-ltd./,SAND,0.375,0.7,0.4,0.0,0.0,0.0,1040.0,27.622
+0.5,0.5,1.0,-2.235215425491333,-1.3257968425750732,0.9999998211860657,schubert jonckheer  kolbe llp,https://www.prnewswire.com/news/schubert-jonckheer-%26-kolbe-llp/,,0.375,0.6,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,0.5,0.5,-2.661853313446045,-1.531522512435913,-1.3424129486083984,scripps,https://www.prnewswire.com/news/scripps/,SSP,0.3333333333333333,0.5,0.4,0.0,0.0,0.0,4833.0,122.712
+0.5,1.0,1.0,-2.22713041305542,0.9999998211860657,0.9999998211860657,seaworld entertainment inc.,https://www.prnewswire.com/news/seaworld-entertainment%2C-inc./,SEAS,0.625,0.7272727272727273,1.0,0.0,0.0,1.0,7996.0,256.513
+0.5,1.0,1.0,-2.1643717288970947,0.9999998211860657,0.9999998211860657,sera prognostics inc.,https://www.prnewswire.com/news/sera-prognostics%2C-inc./,SERA,0.375,0.5,0.7692307692307693,0.0,0.0,1.0,2835.0,-35.009
+1.0,0.9999999403953552,1.0,1.0,0.9999998211860657,0.9999998211860657,sharecare,https://www.prnewswire.com/news/sharecare/,SHCR,0.4166666666666667,0.8,0.4,0.0,0.0,0.0,,
+0.5,1.0,1.0,-1.8926515579223633,0.9999998211860657,0.9999998211860657,silicom ltd.,https://www.prnewswire.com/news/silicom-ltd./,SILC,0.4,0.6,1.0,0.0,0.0,1.0,3576.0,10.541
+0.5,0.5,0.5,-2.885207176208496,-1.3257968425750732,-1.3424129486083984,sonesta international hotels corporation,https://www.prnewswire.com/news/sonesta-international-hotels-corporation/,SNSTA,0.5,0.5454545454545454,0.23076923076923078,0.0,0.0,0.0,7011.0,-2.024
+0.5,0.5,1.0,-2.147453546524048,-1.3257968425750732,0.9999998211860657,sonim technologies inc.,https://www.prnewswire.com/news/sonim-technologies%2C-inc./,SONM,0.4166666666666667,0.6,1.0,0.0,0.0,1.0,3663.0,-38.627
+0.5,1.0,1.0,-2.147453546524048,0.9999998211860657,0.9999998211860657,spirit airlines inc.,https://www.prnewswire.com/news/spirit-airlines%2C-inc./,SAVE,0.4,0.8,1.0,0.0,0.0,1.0,4512.0,-472.569
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,ssc,https://www.prnewswire.com/news/ss%26c/,,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,3577.0,-8.69
+0.5,0.5,1.0,-2.235215425491333,-1.3257968425750732,0.9999998211860657,standard motor products inc.,https://www.prnewswire.com/news/standard-motor-products%2C-inc./,SMP,0.3333333333333333,0.6,0.75,0.0,0.0,0.0,3690.0,90.886
+0.5,1.0,1.0,-1.9321925640106201,0.9999998211860657,0.9999998211860657,super micro computer inc.,https://www.prnewswire.com/news/super-micro-computer%2C-inc./,SMCI,0.5,0.8,1.0,0.0,0.0,1.0,3570.0,111.865
+0.5,1.0,0.5,-2.3244497776031494,0.9999998211860657,-1.3424129486083984,syndax pharmaceuticals inc.,https://www.prnewswire.com/news/syndax-pharmaceuticals%2C-inc./,SNDX,0.375,1.0,0.7692307692307693,0.0,1.0,1.0,2836.0,24.926
+0.9999998807907104,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,the integer group,https://www.prnewswire.com/news/the-integer-group/,FRF,0.375,0.6,0.75,0.0,0.0,0.0,,
+0.5,1.0,1.0,-2.2916882038116455,0.9999998211860657,0.9999998211860657,the joint corp.,https://www.prnewswire.com/news/the-joint-corp./,JYNT,0.5555555555555556,0.6,1.0,0.0,0.0,1.0,6794.0,6.576
+0.5,0.5,1.0,-2.013092041015625,-1.531522512435913,0.9999998211860657,the schall law firm,https://www.prnewswire.com/news/the-schall-law-firm/,,0.5,0.6,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-2.160017490386963,0.9999998211860657,0.9999998211860657,the9 limited,https://www.prnewswire.com/news/the9-limited/,,0.4,0.7272727272727273,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-2.147453546524048,0.9999998211860657,0.9999998211860657,titan international inc.,https://www.prnewswire.com/news/titan-international%2C-inc./,TWI,0.4,0.5384615384615384,0.3333333333333333,0.0,0.0,0.0,3523.0,49.586
+0.9999999403953552,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,toyota motor north america,https://www.prnewswire.com/news/toyota-motor-north-america/,HMNA,0.6,1.0,1.0,0.0,1.0,1.0,,
+0.5,1.0,1.0,-2.360797882080078,0.9999998211860657,0.9999998211860657,tradeup global corporation,https://www.prnewswire.com/news/tradeup-global-corporation/,TUGC,0.375,0.5454545454545454,0.4,0.0,0.0,0.0,,
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,trimble,https://www.prnewswire.com/news/trimble/,TRMB,1.0,1.0,1.0,1.0,1.0,1.0,3829.0,492.7
+0.5,0.5,1.0,-2.235215425491333,-1.4250335693359375,0.9999998211860657,trip.com group limited,https://www.prnewswire.com/news/trip.com-group-limited/,ACOM,0.375,0.5,0.3,0.0,0.0,0.0,7370.0,62.895
+0.5,0.5,1.0,-2.6590280532836914,-1.7013132572174072,0.9999998211860657,trueblue,https://www.prnewswire.com/news/trueblue/,TBI,0.2727272727272727,0.3,0.3,0.0,0.0,0.0,7363.0,61.634
+0.5,1.0,1.0,-2.22713041305542,0.9999998211860657,0.9999998211860657,u.s. silica holdings inc.,https://www.prnewswire.com/news/u.s.-silica-holdings%2C-inc./,CHUY,0.4,0.6,1.0,0.0,0.0,1.0,5812.0,30.176
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,ultra clean holdings inc.,https://www.prnewswire.com/news/ultra-clean-holdings%2C-inc./,UCTT,0.625,0.7272727272727273,1.0,0.0,0.0,1.0,3674.0,119.5
+0.5,0.5,1.0,-2.147453546524048,-1.4250335693359375,0.9999998211860657,unum group,https://www.prnewswire.com/news/unum-group/,UNMA,0.625,0.5384615384615384,0.4,0.0,0.0,0.0,,
+0.5,0.9999999403953552,1.0,-2.22713041305542,0.9999998211860657,0.9999998211860657,up fintech holding limited,https://www.prnewswire.com/news/up-fintech-holding-limited/,,0.375,0.4,0.5,0.0,0.0,0.0,3577.0,-8.69
+1.0,1.0,0.9999999403953552,1.0,0.9999998211860657,0.9999998211860657,usana,https://www.prnewswire.com/news/usana/,,0.45454545454545453,1.0,1.0,0.0,1.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-1.8906383514404297,0.9999998211860657,0.9999998211860657,verra mobility,https://www.prnewswire.com/news/verra-mobility/,GSHTW,0.5,1.0,1.0,0.0,1.0,1.0,,
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,viatris inc.,https://www.prnewswire.com/news/viatris-inc./,VTRS,0.5,0.7,0.3333333333333333,0.0,0.0,0.0,2834.0,-1269.1
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,vonage,https://www.prnewswire.com/news/vonage/,VG,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,7370.0,-24.497
+0.5,0.5,1.0,-2.22713041305542,-1.3257968425750732,0.9999998211860657,voss capital,https://www.prnewswire.com/news/voss-capital/,ACAS,0.3,0.5,0.3,0.0,0.0,0.0,6797.0,-187.0
+0.5,1.0,1.0,-2.235215425491333,0.9999998211860657,0.9999998211860657,vpt inc.,https://www.prnewswire.com/news/vpt%2C-inc./,,0.3333333333333333,0.5,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,1.0,1.0,-2.013092041015625,0.9999998211860657,0.9999998211860657,w.w. grainger inc.,https://www.prnewswire.com/news/w.w.-grainger%2C-inc./,,0.625,0.8,1.0,0.0,0.0,1.0,3577.0,-8.69
+0.5,0.5,0.5,-2.736492395401001,-1.3257968425750732,-1.9306259155273438,washington trust bancorp inc.,https://www.prnewswire.com/news/washington-trust-bancorp%2C-inc./,WASH,0.25,0.5,0.4,0.0,0.0,0.0,6020.0,76.87
+0.5,0.5,0.5,-2.661853313446045,-1.7013132572174072,-1.3424129486083984,weatherford international plc,https://www.prnewswire.com/news/weatherford-international-plc/,WFRD,0.25,0.5384615384615384,0.3,0.0,0.0,0.0,1381.0,-450.0
+0.5,0.5,1.0,-2.360797882080078,-1.7013132572174072,0.9999998211860657,wheaton precious metals corp.,https://www.prnewswire.com/news/wheaton-precious-metals-corp./,WPM,0.2727272727272727,0.4,0.3,0.0,0.0,0.0,1040.0,754.885
+1.0,1.0,1.0,1.0,0.9999998211860657,0.9999998211860657,yext inc.,https://www.prnewswire.com/news/yext%2C-inc./,YEXT,0.625,0.7272727272727273,1.0,0.0,0.0,1.0,7370.0,-93.259
